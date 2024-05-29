@@ -1,0 +1,4746 @@
+Group LW (25):
+First Date: 0.000000
+Last Date: 0.000000
+Txs: 0.000000
+No. Contracts: 0.000000
+No. Chains: 0.000000
+Contracts List: 0.000000
+Chains List: 0.000000
+Overall: 0.000000
+First Date Spread Variance: 0.000000
+Last Date Spread Variance: 0.000000
+First Date Clustering Score: 0.000000
+Last Date Clustering Score: 0.000000
+
+Group GJ (30):
+First Date: 1.723852
+Last Date: 2.742074
+Txs: 0.025607
+No. Contracts: 0.000000
+No. Chains: 0.009524
+Contracts List: 0.000000
+Chains List: 0.016172
+Overall: 0.015886
+First Date Spread Variance: 0.044716
+Last Date Spread Variance: 0.037272
+First Date Clustering Score: 0.021031
+Last Date Clustering Score: 0.027719
+
+Group GN (29):
+First Date: 0.144163
+Last Date: 4.705400
+Txs: 0.054811
+No. Contracts: 0.000000
+No. Chains: 0.000000
+Contracts List: 0.000000
+Chains List: 0.000000
+Overall: 0.016180
+First Date Spread Variance: 0.012714
+Last Date Spread Variance: 0.048004
+First Date Clustering Score: 0.012392
+Last Date Clustering Score: 0.022723
+
+Group JC (63):
+First Date: 0.011446
+Last Date: 0.832939
+Txs: 0.030258
+No. Contracts: 0.000000
+No. Chains: 0.012259
+Contracts List: 0.000000
+Chains List: 0.021337
+Overall: 0.019829
+First Date Spread Variance: 0.005280
+Last Date Spread Variance: 0.029769
+First Date Clustering Score: 0.004668
+Last Date Clustering Score: 0.033443
+
+Group DC (22):
+First Date: 0.000000
+Last Date: 0.011364
+Txs: 0.000000
+No. Contracts: 0.000000
+No. Chains: 0.040000
+Contracts List: 0.000000
+Chains List: 0.039985
+Overall: 0.023907
+First Date Spread Variance: 0.000000
+Last Date Spread Variance: 0.002055
+First Date Clustering Score: 0.000000
+Last Date Clustering Score: 0.002817
+
+Group CE (20):
+First Date: 54.199375
+Last Date: 0.647375
+Txs: 0.044444
+No. Contracts: 0.000000
+No. Chains: 0.012950
+Contracts List: 0.000000
+Chains List: 0.022240
+Overall: 0.024927
+First Date Spread Variance: 0.204722
+Last Date Spread Variance: 0.014787
+First Date Clustering Score: 0.206660
+Last Date Clustering Score: 0.015437
+
+Group HW (28):
+First Date: 0.084730
+Last Date: 0.077761
+Txs: 0.088467
+No. Contracts: 0.000000
+No. Chains: 0.000000
+Contracts List: 0.000000
+Chains List: 0.000000
+Overall: 0.026086
+First Date Spread Variance: 0.009577
+Last Date Spread Variance: 0.006064
+First Date Clustering Score: 0.006110
+Last Date Clustering Score: 0.007416
+
+Group AW (35):
+First Date: 0.144000
+Last Date: 2.684222
+Txs: 0.039271
+No. Contracts: 0.000000
+No. Chains: 0.020168
+Contracts List: 0.000000
+Chains List: 0.029581
+Overall: 0.027354
+First Date Spread Variance: 0.013959
+Last Date Spread Variance: 0.039832
+First Date Clustering Score: 0.011615
+Last Date Clustering Score: 0.033187
+
+Group LN (22):
+First Date: 21.274324
+Last Date: 49.222107
+Txs: 0.021450
+No. Contracts: 0.000000
+No. Chains: 0.033939
+Contracts List: 0.000000
+Chains List: 0.039312
+Overall: 0.029073
+First Date Spread Variance: 0.134522
+Last Date Spread Variance: 0.135231
+First Date Clustering Score: 0.082922
+Last Date Clustering Score: 0.125994
+
+Group HZ (53):
+First Date: 0.067922
+Last Date: 83.489135
+Txs: 0.098979
+No. Contracts: 0.000000
+No. Chains: 0.000000
+Contracts List: 0.000000
+Chains List: 0.000000
+Overall: 0.029488
+First Date Spread Variance: 0.011798
+Last Date Spread Variance: 0.273361
+First Date Clustering Score: 0.010960
+Last Date Clustering Score: 0.316722
+
+Group HX (27):
+First Date: 0.097343
+Last Date: 0.000000
+Txs: 0.107843
+No. Contracts: 0.000000
+No. Chains: 0.000000
+Contracts List: 0.000000
+Chains List: 0.000000
+Overall: 0.031799
+First Date Spread Variance: 0.010081
+Last Date Spread Variance: 0.000000
+First Date Clustering Score: 0.008915
+Last Date Clustering Score: 0.000000
+
+Group GV (29):
+First Date: 0.065685
+Last Date: 1.103284
+Txs: 0.048160
+No. Contracts: 0.000000
+No. Chains: 0.027658
+Contracts List: 0.000000
+Chains List: 0.034570
+Overall: 0.033462
+First Date Spread Variance: 0.008582
+Last Date Spread Variance: 0.023245
+First Date Clustering Score: 0.008605
+Last Date Clustering Score: 0.011630
+
+Group JR (42):
+First Date: 0.782380
+Last Date: 4.533798
+Txs: 0.000000
+No. Contracts: 0.000000
+No. Chains: 0.052712
+Contracts List: 0.000000
+Chains List: 0.057805
+Overall: 0.033540
+First Date Spread Variance: 0.035644
+Last Date Spread Variance: 0.056707
+First Date Clustering Score: 0.031677
+Last Date Clustering Score: 0.065703
+
+Group LK (183):
+First Date: 0.041379
+Last Date: 0.722269
+Txs: 0.003084
+No. Contracts: 0.000000
+No. Chains: 0.052004
+Contracts List: 0.000000
+Chains List: 0.059176
+Overall: 0.034825
+First Date Spread Variance: 0.017111
+Last Date Spread Variance: 0.047245
+First Date Clustering Score: 0.012689
+Last Date Clustering Score: 0.056514
+
+Group BK (20):
+First Date: 0.977000
+Last Date: 0.482000
+Txs: 0.036803
+No. Contracts: 0.000000
+No. Chains: 0.040000
+Contracts List: 0.000000
+Chains List: 0.042287
+Overall: 0.035674
+First Date Spread Variance: 0.027486
+Last Date Spread Variance: 0.012759
+First Date Clustering Score: 0.018643
+Last Date Clustering Score: 0.007549
+
+Group HM (75):
+First Date: 0.166931
+Last Date: 0.100821
+Txs: 0.101457
+No. Contracts: 0.000000
+No. Chains: 0.009749
+Contracts List: 0.000000
+Chains List: 0.019923
+Overall: 0.039752
+First Date Spread Variance: 0.022001
+Last Date Spread Variance: 0.011300
+First Date Clustering Score: 0.008040
+Last Date Clustering Score: 0.012764
+
+Group FS (36):
+First Date: 0.000000
+Last Date: 16.818073
+Txs: 0.072125
+No. Contracts: 0.000000
+No. Chains: 0.028283
+Contracts List: 0.000000
+Chains List: 0.036243
+Overall: 0.041370
+First Date Spread Variance: 0.000000
+Last Date Spread Variance: 0.101117
+First Date Clustering Score: 0.000000
+Last Date Clustering Score: 0.132988
+
+Group A (30):
+First Date: 0.001074
+Last Date: 1.366074
+Txs: 0.042177
+No. Contracts: 0.000000
+No. Chains: 0.050812
+Contracts List: 0.000000
+Chains List: 0.047460
+Overall: 0.041497
+First Date Spread Variance: 0.001116
+Last Date Spread Variance: 0.026308
+First Date Clustering Score: 0.000417
+Last Date Clustering Score: 0.021634
+
+Group IJ (106):
+First Date: 0.124080
+Last Date: 4.990838
+Txs: 0.106326
+No. Contracts: 0.000000
+No. Chains: 0.006235
+Contracts List: 0.000000
+Chains List: 0.024455
+Overall: 0.042274
+First Date Spread Variance: 0.022550
+Last Date Spread Variance: 0.094520
+First Date Clustering Score: 0.011717
+Last Date Clustering Score: 0.094330
+
+Group IP (368):
+First Date: 0.074945
+Last Date: 0.073199
+Txs: 0.115360
+No. Contracts: 0.000000
+No. Chains: 0.007876
+Contracts List: 0.000000
+Chains List: 0.022298
+Overall: 0.044405
+First Date Spread Variance: 0.032655
+Last Date Spread Variance: 0.021328
+First Date Clustering Score: 0.029827
+Last Date Clustering Score: 0.025584
+
+Group LG (20):
+First Date: 12.250500
+Last Date: 19.345500
+Txs: 0.060000
+No. Contracts: 0.000000
+No. Chains: 0.032787
+Contracts List: 0.000000
+Chains List: 0.055902
+Overall: 0.046561
+First Date Spread Variance: 0.097330
+Last Date Spread Variance: 0.080833
+First Date Clustering Score: 0.086807
+Last Date Clustering Score: 0.048282
+
+Group HV (23):
+First Date: 20.773568
+Last Date: 0.172598
+Txs: 0.101551
+No. Contracts: 0.000000
+No. Chains: 0.013763
+Contracts List: 0.000000
+Chains List: 0.042902
+Overall: 0.049809
+First Date Spread Variance: 0.135916
+Last Date Spread Variance: 0.008188
+First Date Clustering Score: 0.099143
+Last Date Clustering Score: 0.009521
+
+Group II (32):
+First Date: 0.034058
+Last Date: 8.608887
+Txs: 0.088362
+No. Contracts: 0.000000
+No. Chains: 0.037983
+Contracts List: 0.000000
+Chains List: 0.042714
+Overall: 0.050656
+First Date Spread Variance: 0.006491
+Last Date Spread Variance: 0.068208
+First Date Clustering Score: 0.006246
+Last Date Clustering Score: 0.045159
+
+Group IM (81):
+First Date: 0.006981
+Last Date: 0.505561
+Txs: 0.088628
+No. Contracts: 0.000000
+No. Chains: 0.037772
+Contracts List: 0.000000
+Chains List: 0.045803
+Overall: 0.051878
+First Date Spread Variance: 0.004676
+Last Date Spread Variance: 0.026297
+First Date Clustering Score: 0.002887
+Last Date Clustering Score: 0.008614
+
+Group DS (44):
+First Date: 0.024735
+Last Date: 12.273326
+Txs: 0.093868
+No. Contracts: 0.000000
+No. Chains: 0.037433
+Contracts List: 0.000000
+Chains List: 0.045614
+Overall: 0.053322
+First Date Spread Variance: 0.006487
+Last Date Spread Variance: 0.095497
+First Date Clustering Score: 0.002013
+Last Date Clustering Score: 0.121315
+
+Group LM (189):
+First Date: 0.205375
+Last Date: 0.039201
+Txs: 0.074371
+No. Contracts: 0.000000
+No. Chains: 0.058320
+Contracts List: 0.000000
+Chains List: 0.051002
+Overall: 0.053913
+First Date Spread Variance: 0.038740
+Last Date Spread Variance: 0.011186
+First Date Clustering Score: 0.006514
+Last Date Clustering Score: 0.012789
+
+Group BT (80):
+First Date: 8.385920
+Last Date: 1.575529
+Txs: 0.099329
+No. Contracts: 0.000000
+No. Chains: 0.046857
+Contracts List: 0.000000
+Chains List: 0.043890
+Overall: 0.056201
+First Date Spread Variance: 0.161055
+Last Date Spread Variance: 0.046136
+First Date Clustering Score: 0.131106
+Last Date Clustering Score: 0.046709
+
+Group AU (95):
+First Date: 1.695006
+Last Date: 0.986038
+Txs: 0.090601
+No. Contracts: 0.000000
+No. Chains: 0.042776
+Contracts List: 0.000000
+Chains List: 0.056000
+Overall: 0.057512
+First Date Spread Variance: 0.078904
+Last Date Spread Variance: 0.039773
+First Date Clustering Score: 0.066358
+Last Date Clustering Score: 0.043012
+
+Group LL (39):
+First Date: 25.024933
+Last Date: 50.110959
+Txs: 0.061654
+No. Contracts: 0.000000
+No. Chains: 0.066378
+Contracts List: 0.000000
+Chains List: 0.065134
+Overall: 0.057745
+First Date Spread Variance: 0.194255
+Last Date Spread Variance: 0.181670
+First Date Clustering Score: 0.175507
+Last Date Clustering Score: 0.199731
+
+Group GO (26):
+First Date: 5.467683
+Last Date: 0.080109
+Txs: 0.087030
+No. Contracts: 0.000000
+No. Chains: 0.045584
+Contracts List: 0.000000
+Chains List: 0.060132
+Overall: 0.058684
+First Date Spread Variance: 0.074138
+Last Date Spread Variance: 0.005931
+First Date Clustering Score: 0.029685
+Last Date Clustering Score: 0.004000
+
+Group EQ (44):
+First Date: 2.382607
+Last Date: 10.017503
+Txs: 0.111826
+No. Contracts: 0.000000
+No. Chains: 0.044226
+Contracts List: 0.000000
+Chains List: 0.043506
+Overall: 0.059183
+First Date Spread Variance: 0.063666
+Last Date Spread Variance: 0.086276
+First Date Clustering Score: 0.034827
+Last Date Clustering Score: 0.080644
+
+Group BQ (27):
+First Date: 24.518620
+Last Date: 2.352182
+Txs: 0.070421
+No. Contracts: 0.000000
+No. Chains: 0.066277
+Contracts List: 0.000000
+Chains List: 0.063206
+Overall: 0.059374
+First Date Spread Variance: 0.159986
+Last Date Spread Variance: 0.032749
+First Date Clustering Score: 0.122042
+Last Date Clustering Score: 0.027621
+
+Group EY (24):
+First Date: 0.199580
+Last Date: 11.239294
+Txs: 0.183168
+No. Contracts: 0.000000
+No. Chains: 0.006124
+Contracts List: 0.000000
+Chains List: 0.010978
+Overall: 0.059624
+First Date Spread Variance: 0.013609
+Last Date Spread Variance: 0.067493
+First Date Clustering Score: 0.012182
+Last Date Clustering Score: 0.066042
+
+Group BL (22):
+First Date: 12.680785
+Last Date: 0.673272
+Txs: 0.066957
+No. Contracts: 0.000000
+No. Chains: 0.068182
+Contracts List: 0.000000
+Chains List: 0.067892
+Overall: 0.060489
+First Date Spread Variance: 0.103857
+Last Date Spread Variance: 0.015816
+First Date Clustering Score: 0.072089
+Last Date Clustering Score: 0.018345
+
+Group BR (128):
+First Date: 1.815611
+Last Date: 0.622070
+Txs: 0.085539
+No. Contracts: 0.000000
+No. Chains: 0.049288
+Contracts List: 0.000000
+Chains List: 0.065138
+Overall: 0.060946
+First Date Spread Variance: 0.094791
+Last Date Spread Variance: 0.036670
+First Date Clustering Score: 0.082267
+Last Date Clustering Score: 0.041836
+
+Group AV (30):
+First Date: 12.713667
+Last Date: 9.273519
+Txs: 0.142671
+No. Contracts: 0.000000
+No. Chains: 0.030657
+Contracts List: 0.000000
+Chains List: 0.036225
+Overall: 0.062720
+First Date Spread Variance: 0.121436
+Last Date Spread Variance: 0.068544
+First Date Clustering Score: 0.113844
+Last Date Clustering Score: 0.088765
+
+Group HH (19):
+First Date: 5.900277
+Last Date: 8.029450
+Txs: 0.084211
+No. Contracts: 0.000000
+No. Chains: 0.067766
+Contracts List: 0.000000
+Chains List: 0.061540
+Overall: 0.062964
+First Date Spread Variance: 0.065836
+Last Date Spread Variance: 0.050758
+First Date Clustering Score: 0.057919
+Last Date Clustering Score: 0.058493
+
+Group KW (113):
+First Date: 2.090213
+Last Date: 4.717788
+Txs: 0.129664
+No. Contracts: 0.000000
+No. Chains: 0.030449
+Contracts List: 0.000000
+Chains List: 0.047719
+Overall: 0.063271
+First Date Spread Variance: 0.095562
+Last Date Spread Variance: 0.094884
+First Date Clustering Score: 0.084387
+Last Date Clustering Score: 0.084014
+
+Group KJ (20):
+First Date: 7.708000
+Last Date: 20.265000
+Txs: 0.140782
+No. Contracts: 0.000000
+No. Chains: 0.033333
+Contracts List: 0.000000
+Chains List: 0.042358
+Overall: 0.065126
+First Date Spread Variance: 0.077204
+Last Date Spread Variance: 0.082732
+First Date Clustering Score: 0.063827
+Last Date Clustering Score: 0.078311
+
+Group CB (25):
+First Date: 133.201536
+Last Date: 6.311296
+Txs: 0.085854
+No. Contracts: 0.000000
+No. Chains: 0.061277
+Contracts List: 0.000000
+Chains List: 0.067329
+Overall: 0.065383
+First Date Spread Variance: 0.358820
+Last Date Spread Variance: 0.051619
+First Date Clustering Score: 0.303157
+Last Date Clustering Score: 0.060684
+
+Group JO (46):
+First Date: 8.360812
+Last Date: 11.241637
+Txs: 0.085227
+No. Contracts: 0.000000
+No. Chains: 0.075140
+Contracts List: 0.000000
+Chains List: 0.064734
+Overall: 0.066056
+First Date Spread Variance: 0.121943
+Last Date Spread Variance: 0.093450
+First Date Clustering Score: 0.108541
+Last Date Clustering Score: 0.113232
+
+Group BZ (33):
+First Date: 19.653115
+Last Date: 14.321618
+Txs: 0.123326
+No. Contracts: 0.000000
+No. Chains: 0.049813
+Contracts List: 0.000000
+Chains List: 0.049569
+Overall: 0.066250
+First Date Spread Variance: 0.158353
+Last Date Spread Variance: 0.089338
+First Date Clustering Score: 0.144231
+Last Date Clustering Score: 0.100717
+
+Group BC (96):
+First Date: 2.379800
+Last Date: 0.042734
+Txs: 0.072292
+No. Contracts: 0.000000
+No. Chains: 0.083910
+Contracts List: 0.000000
+Chains List: 0.071957
+Overall: 0.066789
+First Date Spread Variance: 0.093985
+Last Date Spread Variance: 0.008323
+First Date Clustering Score: 0.074221
+Last Date Clustering Score: 0.003037
+
+Group CA (39):
+First Date: 0.187764
+Last Date: 1.809269
+Txs: 0.099918
+No. Contracts: 0.000000
+No. Chains: 0.062852
+Contracts List: 0.000000
+Chains List: 0.063038
+Overall: 0.067117
+First Date Spread Variance: 0.016826
+Last Date Spread Variance: 0.034520
+First Date Clustering Score: 0.015279
+Last Date Clustering Score: 0.041826
+
+Group DB (50):
+First Date: 0.742400
+Last Date: 0.458848
+Txs: 0.084938
+No. Contracts: 0.000000
+No. Chains: 0.073063
+Contracts List: 0.000000
+Chains List: 0.071085
+Overall: 0.067951
+First Date Spread Variance: 0.037884
+Last Date Spread Variance: 0.019684
+First Date Clustering Score: 0.029777
+Last Date Clustering Score: 0.025014
+
+Group D (22):
+First Date: 24.255823
+Last Date: 4.092130
+Txs: 0.134680
+No. Contracts: 0.000000
+No. Chains: 0.048074
+Contracts List: 0.000000
+Chains List: 0.047832
+Overall: 0.068558
+First Date Spread Variance: 0.143639
+Last Date Spread Variance: 0.038992
+First Date Clustering Score: 0.129626
+Last Date Clustering Score: 0.049425
+
+Group C (26):
+First Date: 38.650205
+Last Date: 5.192535
+Txs: 0.139458
+No. Contracts: 0.000000
+No. Chains: 0.047337
+Contracts List: 0.000000
+Chains List: 0.044463
+Overall: 0.068605
+First Date Spread Variance: 0.197113
+Last Date Spread Variance: 0.047749
+First Date Clustering Score: 0.185044
+Last Date Clustering Score: 0.053839
+
+Group CN (21):
+First Date: 179.340676
+Last Date: 16.169960
+Txs: 0.143358
+No. Contracts: 0.000000
+No. Chains: 0.040720
+Contracts List: 0.000000
+Chains List: 0.042929
+Overall: 0.068929
+First Date Spread Variance: 0.381594
+Last Date Spread Variance: 0.075727
+First Date Clustering Score: 0.285353
+Last Date Clustering Score: 0.093387
+
+Group JE (25):
+First Date: 22.185984
+Last Date: 5.246464
+Txs: 0.150725
+No. Contracts: 0.000000
+No. Chains: 0.034699
+Contracts List: 0.000000
+Chains List: 0.044095
+Overall: 0.069077
+First Date Spread Variance: 0.146441
+Last Date Spread Variance: 0.047064
+First Date Clustering Score: 0.121615
+Last Date Clustering Score: 0.053418
+
+Group JH (60):
+First Date: 12.792611
+Last Date: 12.497759
+Txs: 0.148669
+No. Contracts: 0.000000
+No. Chains: 0.024266
+Contracts List: 0.000000
+Chains List: 0.052597
+Overall: 0.069646
+First Date Spread Variance: 0.172269
+Last Date Spread Variance: 0.112532
+First Date Clustering Score: 0.162976
+Last Date Clustering Score: 0.132428
+
+Group CD (26):
+First Date: 0.328630
+Last Date: 0.418582
+Txs: 0.083333
+No. Contracts: 0.000000
+No. Chains: 0.086447
+Contracts List: 0.000000
+Chains List: 0.070925
+Overall: 0.070141
+First Date Spread Variance: 0.018176
+Last Date Spread Variance: 0.013557
+First Date Clustering Score: 0.016126
+Last Date Clustering Score: 0.015418
+
+Group BM (27):
+First Date: 0.399431
+Last Date: 0.452472
+Txs: 0.088296
+No. Contracts: 0.000000
+No. Chains: 0.062331
+Contracts List: 0.000000
+Chains List: 0.079716
+Overall: 0.070149
+First Date Spread Variance: 0.020420
+Last Date Spread Variance: 0.014364
+First Date Clustering Score: 0.017227
+Last Date Clustering Score: 0.015781
+
+Group BS (20):
+First Date: 20.790000
+Last Date: 1.068000
+Txs: 0.088259
+No. Contracts: 0.000000
+No. Chains: 0.082186
+Contracts List: 0.000000
+Chains List: 0.072800
+Overall: 0.071623
+First Date Spread Variance: 0.126793
+Last Date Spread Variance: 0.018993
+First Date Clustering Score: 0.121698
+Last Date Clustering Score: 0.023888
+
+Group BI (24):
+First Date: 947.706525
+Last Date: 6.355252
+Txs: 0.107328
+No. Contracts: 0.000000
+No. Chains: 0.060000
+Contracts List: 0.000000
+Chains List: 0.052264
+Overall: 0.071820
+First Date Spread Variance: 0.937767
+Last Date Spread Variance: 0.050752
+First Date Clustering Score: 0.945145
+Last Date Clustering Score: 0.055987
+
+Group CP (27):
+First Date: 31.672712
+Last Date: 11.589392
+Txs: 0.164384
+No. Contracts: 0.000000
+No. Chains: 0.035523
+Contracts List: 0.000000
+Chains List: 0.041763
+Overall: 0.072451
+First Date Spread Variance: 0.181835
+Last Date Spread Variance: 0.072694
+First Date Clustering Score: 0.167382
+Last Date Clustering Score: 0.089910
+
+Group CO (41):
+First Date: 13.097866
+Last Date: 8.772421
+Txs: 0.151182
+No. Contracts: 0.000000
+No. Chains: 0.040198
+Contracts List: 0.000000
+Chains List: 0.050235
+Overall: 0.072695
+First Date Spread Variance: 0.144094
+Last Date Spread Variance: 0.077936
+First Date Clustering Score: 0.133409
+Last Date Clustering Score: 0.094184
+
+Group GW (134):
+First Date: 1.809588
+Last Date: 2.608667
+Txs: 0.117804
+No. Contracts: 0.000000
+No. Chains: 0.057632
+Contracts List: 0.000000
+Chains List: 0.068005
+Overall: 0.073298
+First Date Spread Variance: 0.096827
+Last Date Spread Variance: 0.076833
+First Date Clustering Score: 0.078764
+Last Date Clustering Score: 0.084359
+
+Group KU (28):
+First Date: 11.650328
+Last Date: 300.349125
+Txs: 0.156825
+No. Contracts: 0.000000
+No. Chains: 0.042630
+Contracts List: 0.000000
+Chains List: 0.044288
+Overall: 0.073556
+First Date Spread Variance: 0.112305
+Last Date Spread Variance: 0.376857
+First Date Clustering Score: 0.103209
+Last Date Clustering Score: 0.464164
+
+Group KD (112):
+First Date: 6.721016
+Last Date: 12.060301
+Txs: 0.149899
+No. Contracts: 0.000000
+No. Chains: 0.048518
+Contracts List: 0.000000
+Chains List: 0.050034
+Overall: 0.073896
+First Date Spread Variance: 0.170600
+Last Date Spread Variance: 0.151033
+First Date Clustering Score: 0.146509
+Last Date Clustering Score: 0.176298
+
+Group BF (50):
+First Date: 4.132800
+Last Date: 3.496552
+Txs: 0.130279
+No. Contracts: 0.000000
+No. Chains: 0.061006
+Contracts List: 0.000000
+Chains List: 0.058404
+Overall: 0.073904
+First Date Spread Variance: 0.089384
+Last Date Spread Variance: 0.054336
+First Date Clustering Score: 0.079337
+Last Date Clustering Score: 0.068292
+
+Group FC (23):
+First Date: 18.438563
+Last Date: 24.217145
+Txs: 0.166367
+No. Contracts: 0.000000
+No. Chains: 0.040134
+Contracts List: 0.000000
+Chains List: 0.041809
+Overall: 0.073937
+First Date Spread Variance: 0.128050
+Last Date Spread Variance: 0.096986
+First Date Clustering Score: 0.109764
+Last Date Clustering Score: 0.120985
+
+Group BO (433):
+First Date: 0.305465
+Last Date: 0.053234
+Txs: 0.095870
+No. Contracts: 0.000000
+No. Chains: 0.075692
+Contracts List: 0.000000
+Chains List: 0.076911
+Overall: 0.074000
+First Date Spread Variance: 0.071512
+Last Date Spread Variance: 0.019730
+First Date Clustering Score: 0.055337
+Last Date Clustering Score: 0.024090
+
+Group CY (42):
+First Date: 0.647338
+Last Date: 9.720225
+Txs: 0.138249
+No. Contracts: 0.000000
+No. Chains: 0.042831
+Contracts List: 0.000000
+Chains List: 0.062312
+Overall: 0.074082
+First Date Spread Variance: 0.032422
+Last Date Spread Variance: 0.083032
+First Date Clustering Score: 0.029137
+Last Date Clustering Score: 0.097910
+
+Group FA (52):
+First Date: 2.446369
+Last Date: 0.340123
+Txs: 0.212551
+No. Contracts: 0.000000
+No. Chains: 0.014703
+Contracts List: 0.000000
+Chains List: 0.023901
+Overall: 0.075105
+First Date Spread Variance: 0.070132
+Last Date Spread Variance: 0.017282
+First Date Clustering Score: 0.064929
+Last Date Clustering Score: 0.019069
+
+Group BN (55):
+First Date: 2.443300
+Last Date: 0.415002
+Txs: 0.089504
+No. Contracts: 0.000000
+No. Chains: 0.089943
+Contracts List: 0.000000
+Chains List: 0.077661
+Overall: 0.075343
+First Date Spread Variance: 0.072081
+Last Date Spread Variance: 0.019633
+First Date Clustering Score: 0.057877
+Last Date Clustering Score: 0.024268
+
+Group EX (44):
+First Date: 0.001033
+Last Date: 0.113636
+Txs: 0.140092
+No. Contracts: 0.000000
+No. Chains: 0.056643
+Contracts List: 0.000000
+Chains List: 0.058937
+Overall: 0.076073
+First Date Spread Variance: 0.001326
+Last Date Spread Variance: 0.009189
+First Date Clustering Score: 0.000294
+Last Date Clustering Score: 0.008195
+
+Group IZ (35):
+First Date: 4.751487
+Last Date: 26.513259
+Txs: 0.188902
+No. Contracts: 0.000000
+No. Chains: 0.024017
+Contracts List: 0.000000
+Chains List: 0.039221
+Overall: 0.076178
+First Date Spread Variance: 0.080187
+Last Date Spread Variance: 0.125184
+First Date Clustering Score: 0.058075
+Last Date Clustering Score: 0.082627
+
+Group JV (159):
+First Date: 0.119712
+Last Date: 1.064305
+Txs: 0.124205
+No. Contracts: 0.000000
+No. Chains: 0.060834
+Contracts List: 0.000000
+Chains List: 0.069543
+Overall: 0.076425
+First Date Spread Variance: 0.027128
+Last Date Spread Variance: 0.053458
+First Date Clustering Score: 0.023129
+Last Date Clustering Score: 0.059493
+
+Group FZ (20):
+First Date: 34.661375
+Last Date: 16.151375
+Txs: 0.100000
+No. Contracts: 0.000000
+No. Chains: 0.073437
+Contracts List: 0.000000
+Chains List: 0.084153
+Overall: 0.077935
+First Date Spread Variance: 0.163716
+Last Date Spread Variance: 0.073859
+First Date Clustering Score: 0.160214
+Last Date Clustering Score: 0.091382
+
+Group DO (27):
+First Date: 0.203932
+Last Date: 3.171468
+Txs: 0.146224
+No. Contracts: 0.000000
+No. Chains: 0.051282
+Contracts List: 0.000000
+Chains List: 0.063275
+Overall: 0.078509
+First Date Spread Variance: 0.014591
+Last Date Spread Variance: 0.038027
+First Date Clustering Score: 0.011668
+Last Date Clustering Score: 0.032969
+
+Group FV (25):
+First Date: 37.593600
+Last Date: 77.344000
+Txs: 0.184815
+No. Contracts: 0.000000
+No. Chains: 0.033783
+Contracts List: 0.000000
+Chains List: 0.042424
+Overall: 0.078664
+First Date Spread Variance: 0.190625
+Last Date Spread Variance: 0.180704
+First Date Clustering Score: 0.159502
+Last Date Clustering Score: 0.190471
+
+Group BE (21):
+First Date: 8.134327
+Last Date: 2.144693
+Txs: 0.111498
+No. Contracts: 0.000000
+No. Chains: 0.082639
+Contracts List: 0.000000
+Chains List: 0.075599
+Overall: 0.079576
+First Date Spread Variance: 0.081269
+Last Date Spread Variance: 0.027579
+First Date Clustering Score: 0.070751
+Last Date Clustering Score: 0.035873
+
+Group EO (49):
+First Date: 8.583532
+Last Date: 46.903484
+Txs: 0.173999
+No. Contracts: 0.000000
+No. Chains: 0.024567
+Contracts List: 0.000000
+Chains List: 0.058775
+Overall: 0.079701
+First Date Spread Variance: 0.127522
+Last Date Spread Variance: 0.197008
+First Date Clustering Score: 0.097134
+Last Date Clustering Score: 0.166562
+
+Group DR (26):
+First Date: 21.863735
+Last Date: 30.787949
+Txs: 0.152715
+No. Contracts: 0.000000
+No. Chains: 0.047337
+Contracts List: 0.000000
+Chains List: 0.066240
+Overall: 0.081054
+First Date Spread Variance: 0.148252
+Last Date Spread Variance: 0.116268
+First Date Clustering Score: 0.132856
+Last Date Clustering Score: 0.116412
+
+Group CF (84):
+First Date: 15.355258
+Last Date: 2.444053
+Txs: 0.121812
+No. Contracts: 0.000000
+No. Chains: 0.079898
+Contracts List: 0.000000
+Chains List: 0.074960
+Overall: 0.081864
+First Date Spread Variance: 0.223316
+Last Date Spread Variance: 0.058882
+First Date Clustering Score: 0.102732
+Last Date Clustering Score: 0.062982
+
+Group V (40):
+First Date: 22.802438
+Last Date: 10.939984
+Txs: 0.171429
+No. Contracts: 0.000000
+No. Chains: 0.045968
+Contracts List: 0.000000
+Chains List: 0.056169
+Overall: 0.082261
+First Date Spread Variance: 0.187790
+Last Date Spread Variance: 0.085965
+First Date Clustering Score: 0.161784
+Last Date Clustering Score: 0.092178
+
+Group LS (740):
+First Date: 1.534329
+Last Date: 5.725850
+Txs: 0.148357
+No. Contracts: 0.000000
+No. Chains: 0.065572
+Contracts List: 0.000000
+Chains List: 0.064661
+Overall: 0.082618
+First Date Spread Variance: 0.209521
+Last Date Spread Variance: 0.267498
+First Date Clustering Score: 0.145821
+Last Date Clustering Score: 0.263965
+
+Group CR (183):
+First Date: 0.456936
+Last Date: 1.637846
+Txs: 0.141514
+No. Contracts: 0.000000
+No. Chains: 0.063197
+Contracts List: 0.000000
+Chains List: 0.071477
+Overall: 0.082777
+First Date Spread Variance: 0.056860
+Last Date Spread Variance: 0.071145
+First Date Clustering Score: 0.045392
+Last Date Clustering Score: 0.083517
+
+Group IR (34):
+First Date: 89.068721
+Last Date: 197.671382
+Txs: 0.170755
+No. Contracts: 0.000000
+No. Chains: 0.044022
+Contracts List: 0.000000
+Chains List: 0.057557
+Overall: 0.083401
+First Date Spread Variance: 0.342180
+Last Date Spread Variance: 0.336896
+First Date Clustering Score: 0.303270
+Last Date Clustering Score: 0.435408
+
+Group KO (62):
+First Date: 0.779988
+Last Date: 2.036139
+Txs: 0.051136
+No. Contracts: 0.000000
+No. Chains: 0.113506
+Contracts List: 0.000000
+Chains List: 0.114713
+Overall: 0.083421
+First Date Spread Variance: 0.043241
+Last Date Spread Variance: 0.046173
+First Date Clustering Score: 0.032272
+Last Date Clustering Score: 0.043392
+
+Group KR (21):
+First Date: 1.789008
+Last Date: 0.320268
+Txs: 0.077922
+No. Contracts: 0.000000
+No. Chains: 0.108679
+Contracts List: 0.000000
+Chains List: 0.097580
+Overall: 0.083589
+First Date Spread Variance: 0.038113
+Last Date Spread Variance: 0.010657
+First Date Clustering Score: 0.029768
+Last Date Clustering Score: 0.012954
+
+Group DA (229):
+First Date: 1.137012
+Last Date: 0.893550
+Txs: 0.131520
+No. Contracts: 0.000000
+No. Chains: 0.085421
+Contracts List: 0.000000
+Chains List: 0.073138
+Overall: 0.085019
+First Date Spread Variance: 0.100335
+Last Date Spread Variance: 0.058784
+First Date Clustering Score: 0.092996
+Last Date Clustering Score: 0.066432
+
+Group BB (37):
+First Date: 8.114268
+Last Date: 0.303556
+Txs: 0.105510
+No. Contracts: 0.000000
+No. Chains: 0.088187
+Contracts List: 0.000000
+Chains List: 0.091293
+Overall: 0.085117
+First Date Spread Variance: 0.107740
+Last Date Spread Variance: 0.013772
+First Date Clustering Score: 0.079259
+Last Date Clustering Score: 0.011128
+
+Group CX (102):
+First Date: 1.887509
+Last Date: 2.532929
+Txs: 0.153064
+No. Contracts: 0.000000
+No. Chains: 0.070738
+Contracts List: 0.000000
+Chains List: 0.067274
+Overall: 0.086080
+First Date Spread Variance: 0.086277
+Last Date Spread Variance: 0.066053
+First Date Clustering Score: 0.076126
+Last Date Clustering Score: 0.081116
+
+Group GU (21):
+First Date: 70.604686
+Last Date: 198.177519
+Txs: 0.196555
+No. Contracts: 0.000000
+No. Chains: 0.041710
+Contracts List: 0.000000
+Chains List: 0.046607
+Overall: 0.086083
+First Date Spread Variance: 0.239430
+Last Date Spread Variance: 0.265107
+First Date Clustering Score: 0.207145
+Last Date Clustering Score: 0.289130
+
+Group BG (21):
+First Date: 0.314221
+Last Date: 0.575532
+Txs: 0.090242
+No. Contracts: 0.000000
+No. Chains: 0.084699
+Contracts List: 0.000000
+Chains List: 0.107989
+Overall: 0.086420
+First Date Spread Variance: 0.015973
+Last Date Spread Variance: 0.014287
+First Date Clustering Score: 0.015677
+Last Date Clustering Score: 0.016046
+
+Group GI (27):
+First Date: 0.625921
+Last Date: 6.253112
+Txs: 0.170873
+No. Contracts: 0.000000
+No. Chains: 0.060921
+Contracts List: 0.000000
+Chains List: 0.060277
+Overall: 0.086576
+First Date Spread Variance: 0.025562
+Last Date Spread Variance: 0.053397
+First Date Clustering Score: 0.012378
+Last Date Clustering Score: 0.063063
+
+Group DK (38):
+First Date: 1.815443
+Last Date: 3.675463
+Txs: 0.148826
+No. Contracts: 0.000000
+No. Chains: 0.058947
+Contracts List: 0.000000
+Chains List: 0.077896
+Overall: 0.086613
+First Date Spread Variance: 0.051646
+Last Date Spread Variance: 0.048566
+First Date Clustering Score: 0.031344
+Last Date Clustering Score: 0.055559
+
+Group KC (20):
+First Date: 28.311375
+Last Date: 255.919500
+Txs: 0.181818
+No. Contracts: 0.000000
+No. Chains: 0.052632
+Contracts List: 0.000000
+Chains List: 0.053927
+Overall: 0.086730
+First Date Spread Variance: 0.147961
+Last Date Spread Variance: 0.294002
+First Date Clustering Score: 0.126844
+Last Date Clustering Score: 0.359555
+
+Group DN (56):
+First Date: 0.026581
+Last Date: 0.000000
+Txs: 0.294425
+No. Contracts: 0.000000
+No. Chains: 0.000000
+Contracts List: 0.000000
+Chains List: 0.000000
+Overall: 0.086815
+First Date Spread Variance: 0.007586
+Last Date Spread Variance: 0.000000
+First Date Clustering Score: 0.007060
+Last Date Clustering Score: 0.000000
+
+Group AJ (140):
+First Date: 0.866545
+Last Date: 4.687611
+Txs: 0.117474
+No. Contracts: 0.000000
+No. Chains: 0.087685
+Contracts List: 0.000000
+Chains List: 0.087429
+Overall: 0.086980
+First Date Spread Variance: 0.068488
+Last Date Spread Variance: 0.105275
+First Date Clustering Score: 0.056872
+Last Date Clustering Score: 0.122709
+
+Group EZ (29):
+First Date: 3.751691
+Last Date: 20.814466
+Txs: 0.181962
+No. Contracts: 0.000000
+No. Chains: 0.044857
+Contracts List: 0.000000
+Chains List: 0.062819
+Overall: 0.087648
+First Date Spread Variance: 0.064858
+Last Date Spread Variance: 0.100964
+First Date Clustering Score: 0.055989
+Last Date Clustering Score: 0.110253
+
+Group CC (1322):
+First Date: 0.192133
+Last Date: 0.155676
+Txs: 0.131202
+No. Contracts: 0.000000
+No. Chains: 0.092107
+Contracts List: 0.000000
+Chains List: 0.077288
+Overall: 0.087914
+First Date Spread Variance: 0.099099
+Last Date Spread Variance: 0.058954
+First Date Clustering Score: 0.080754
+Last Date Clustering Score: 0.061190
+
+Group GT (20):
+First Date: 49.392000
+Last Date: 197.185500
+Txs: 0.198507
+No. Contracts: 0.000000
+No. Chains: 0.041221
+Contracts List: 0.000000
+Chains List: 0.050944
+Overall: 0.088099
+First Date Spread Variance: 0.195432
+Last Date Spread Variance: 0.258069
+First Date Clustering Score: 0.171672
+Last Date Clustering Score: 0.272173
+
+Group CM (39):
+First Date: 31.017684
+Last Date: 8.202701
+Txs: 0.151515
+No. Contracts: 0.000000
+No. Chains: 0.069119
+Contracts List: 0.000000
+Chains List: 0.074126
+Overall: 0.088237
+First Date Spread Variance: 0.216267
+Last Date Spread Variance: 0.073501
+First Date Clustering Score: 0.182708
+Last Date Clustering Score: 0.088475
+
+Group CU (20):
+First Date: 219.826375
+Last Date: 16.054375
+Txs: 0.172727
+No. Contracts: 0.000000
+No. Chains: 0.043678
+Contracts List: 0.000000
+Chains List: 0.068346
+Overall: 0.088515
+First Date Spread Variance: 0.412294
+Last Date Spread Variance: 0.073637
+First Date Clustering Score: 0.340657
+Last Date Clustering Score: 0.086058
+
+Group FX (55):
+First Date: 3.010705
+Last Date: 5.650945
+Txs: 0.207757
+No. Contracts: 0.000000
+No. Chains: 0.045590
+Contracts List: 0.000000
+Chains List: 0.045843
+Overall: 0.088657
+First Date Spread Variance: 0.080014
+Last Date Spread Variance: 0.072448
+First Date Clustering Score: 0.066899
+Last Date Clustering Score: 0.076386
+
+Group BP (23):
+First Date: 7.557163
+Last Date: 6.265472
+Txs: 0.185434
+No. Contracts: 0.000000
+No. Chains: 0.053512
+Contracts List: 0.000000
+Chains List: 0.058628
+Overall: 0.088763
+First Date Spread Variance: 0.081978
+Last Date Spread Variance: 0.049332
+First Date Clustering Score: 0.071365
+Last Date Clustering Score: 0.052505
+
+Group BW (151):
+First Date: 1.237017
+Last Date: 0.197267
+Txs: 0.155920
+No. Contracts: 0.000000
+No. Chains: 0.062229
+Contracts List: 0.000000
+Chains List: 0.076801
+Overall: 0.088925
+First Date Spread Variance: 0.084982
+Last Date Spread Variance: 0.022428
+First Date Clustering Score: 0.050809
+Last Date Clustering Score: 0.017876
+
+Group BD (21):
+First Date: 23.540222
+Last Date: 1.430731
+Txs: 0.117528
+No. Contracts: 0.000000
+No. Chains: 0.087108
+Contracts List: 0.000000
+Chains List: 0.092674
+Overall: 0.089107
+First Date Spread Variance: 0.138251
+Last Date Spread Variance: 0.022525
+First Date Clustering Score: 0.117547
+Last Date Clustering Score: 0.022101
+
+Group JF (30):
+First Date: 26.475407
+Last Date: 102.941074
+Txs: 0.202548
+No. Contracts: 0.000000
+No. Chains: 0.037975
+Contracts List: 0.000000
+Chains List: 0.053962
+Overall: 0.089299
+First Date Spread Variance: 0.175241
+Last Date Spread Variance: 0.228370
+First Date Clustering Score: 0.147131
+Last Date Clustering Score: 0.210420
+
+Group BX (44):
+First Date: 5.862169
+Last Date: 4.781602
+Txs: 0.150527
+No. Contracts: 0.000000
+No. Chains: 0.075758
+Contracts List: 0.000000
+Chains List: 0.075381
+Overall: 0.089587
+First Date Spread Variance: 0.099864
+Last Date Spread Variance: 0.059607
+First Date Clustering Score: 0.070437
+Last Date Clustering Score: 0.062380
+
+Group CV (32):
+First Date: 3.281464
+Last Date: 1.622559
+Txs: 0.173429
+No. Contracts: 0.000000
+No. Chains: 0.063120
+Contracts List: 0.000000
+Chains List: 0.064991
+Overall: 0.089639
+First Date Spread Variance: 0.063718
+Last Date Spread Variance: 0.029611
+First Date Clustering Score: 0.056717
+Last Date Clustering Score: 0.021435
+
+Group HK (34):
+First Date: 0.564930
+Last Date: 11.778343
+Txs: 0.161796
+No. Contracts: 0.000000
+No. Chains: 0.059115
+Contracts List: 0.000000
+Chains List: 0.076008
+Overall: 0.089747
+First Date Spread Variance: 0.027251
+Last Date Spread Variance: 0.082237
+First Date Clustering Score: 0.016844
+Last Date Clustering Score: 0.088641
+
+Group BU (21):
+First Date: 354.507505
+Last Date: 3.192312
+Txs: 0.161584
+No. Contracts: 0.000000
+No. Chains: 0.058608
+Contracts List: 0.000000
+Chains List: 0.070489
+Overall: 0.090113
+First Date Spread Variance: 0.536506
+Last Date Spread Variance: 0.033647
+First Date Clustering Score: 0.366379
+Last Date Clustering Score: 0.035285
+
+Group DU (149):
+First Date: 0.394764
+Last Date: 4.719960
+Txs: 0.164903
+No. Contracts: 0.000000
+No. Chains: 0.068589
+Contracts List: 0.000000
+Chains List: 0.071079
+Overall: 0.090627
+First Date Spread Variance: 0.047689
+Last Date Spread Variance: 0.108980
+First Date Clustering Score: 0.038113
+Last Date Clustering Score: 0.127315
+
+Group CG (26):
+First Date: 0.295175
+Last Date: 0.020767
+Txs: 0.094170
+No. Contracts: 0.000000
+No. Chains: 0.120081
+Contracts List: 0.000000
+Chains List: 0.098023
+Overall: 0.090867
+First Date Spread Variance: 0.017226
+Last Date Spread Variance: 0.003020
+First Date Clustering Score: 0.013521
+Last Date Clustering Score: 0.003500
+
+Group AX (55):
+First Date: 9.028015
+Last Date: 3.622323
+Txs: 0.182158
+No. Contracts: 0.000000
+No. Chains: 0.055502
+Contracts List: 0.000000
+Chains List: 0.065809
+Overall: 0.091033
+First Date Spread Variance: 0.138558
+Last Date Spread Variance: 0.058004
+First Date Clustering Score: 0.122477
+Last Date Clustering Score: 0.066288
+
+Group ID (84):
+First Date: 4.486671
+Last Date: 24.897413
+Txs: 0.204801
+No. Contracts: 0.000000
+No. Chains: 0.048151
+Contracts List: 0.000000
+Chains List: 0.052684
+Overall: 0.091083
+First Date Spread Variance: 0.120713
+Last Date Spread Variance: 0.187932
+First Date Clustering Score: 0.092439
+Last Date Clustering Score: 0.202418
+
+Group JL (27):
+First Date: 187.415638
+Last Date: 130.869176
+Txs: 0.218206
+No. Contracts: 0.000000
+No. Chains: 0.020984
+Contracts List: 0.000000
+Chains List: 0.052380
+Overall: 0.091174
+First Date Spread Variance: 0.442321
+Last Date Spread Variance: 0.244278
+First Date Clustering Score: 0.316152
+Last Date Clustering Score: 0.306719
+
+Group X (24):
+First Date: 6.853516
+Last Date: 21.225622
+Txs: 0.206439
+No. Contracts: 0.000000
+No. Chains: 0.051020
+Contracts List: 0.000000
+Chains List: 0.050664
+Overall: 0.091360
+First Date Spread Variance: 0.079747
+Last Date Spread Variance: 0.092751
+First Date Clustering Score: 0.068442
+Last Date Clustering Score: 0.120620
+
+Group JZ (60):
+First Date: 8.627458
+Last Date: 24.753222
+Txs: 0.191978
+No. Contracts: 0.000000
+No. Chains: 0.048393
+Contracts List: 0.000000
+Chains List: 0.062786
+Overall: 0.091361
+First Date Spread Variance: 0.141472
+Last Date Spread Variance: 0.158371
+First Date Clustering Score: 0.115786
+Last Date Clustering Score: 0.180059
+
+Group CW (21):
+First Date: 16.489796
+Last Date: 13.430731
+Txs: 0.172840
+No. Contracts: 0.000000
+No. Chains: 0.070875
+Contracts List: 0.000000
+Chains List: 0.065869
+Overall: 0.091537
+First Date Spread Variance: 0.115710
+Last Date Spread Variance: 0.069015
+First Date Clustering Score: 0.093092
+Last Date Clustering Score: 0.083397
+
+Group AR (33):
+First Date: 0.281214
+Last Date: 121.118012
+Txs: 0.142743
+No. Contracts: 0.000000
+No. Chains: 0.087076
+Contracts List: 0.000000
+Chains List: 0.080454
+Overall: 0.091976
+First Date Spread Variance: 0.018942
+Last Date Spread Variance: 0.259804
+First Date Clustering Score: 0.017393
+Last Date Clustering Score: 0.351930
+
+Group CH (56):
+First Date: 5.143130
+Last Date: 0.112063
+Txs: 0.164162
+No. Contracts: 0.000000
+No. Chains: 0.071429
+Contracts List: 0.000000
+Chains List: 0.075322
+Overall: 0.092679
+First Date Spread Variance: 0.105526
+Last Date Spread Variance: 0.010295
+First Date Clustering Score: 0.079364
+Last Date Clustering Score: 0.005461
+
+Group BY (109):
+First Date: 2.360849
+Last Date: 2.431467
+Txs: 0.153323
+No. Contracts: 0.000000
+No. Chains: 0.086642
+Contracts List: 0.000000
+Chains List: 0.076012
+Overall: 0.092844
+First Date Spread Variance: 0.099747
+Last Date Spread Variance: 0.066901
+First Date Clustering Score: 0.082518
+Last Date Clustering Score: 0.072004
+
+Group ES (132):
+First Date: 3.794287
+Last Date: 8.570775
+Txs: 0.192553
+No. Contracts: 0.000000
+No. Chains: 0.055944
+Contracts List: 0.000000
+Chains List: 0.062893
+Overall: 0.093017
+First Date Spread Variance: 0.139157
+Last Date Spread Variance: 0.138223
+First Date Clustering Score: 0.114562
+Last Date Clustering Score: 0.140335
+
+Group BJ (23):
+First Date: 10.892250
+Last Date: 8.801019
+Txs: 0.106209
+No. Contracts: 0.000000
+No. Chains: 0.107417
+Contracts List: 0.000000
+Chains List: 0.101023
+Overall: 0.093129
+First Date Spread Variance: 0.098418
+Last Date Spread Variance: 0.058467
+First Date Clustering Score: 0.088937
+Last Date Clustering Score: 0.061323
+
+Group IL (72):
+First Date: 12.962960
+Last Date: 2.497811
+Txs: 0.206140
+No. Contracts: 0.000000
+No. Chains: 0.051389
+Contracts List: 0.000000
+Chains List: 0.055459
+Overall: 0.093216
+First Date Spread Variance: 0.189964
+Last Date Spread Variance: 0.055110
+First Date Clustering Score: 0.146511
+Last Date Clustering Score: 0.055048
+
+Group DL (69):
+First Date: 4.659787
+Last Date: 17.257780
+Txs: 0.142091
+No. Contracts: 0.000000
+No. Chains: 0.099155
+Contracts List: 0.000000
+Chains List: 0.079679
+Overall: 0.093600
+First Date Spread Variance: 0.111496
+Last Date Spread Variance: 0.141808
+First Date Clustering Score: 0.103331
+Last Date Clustering Score: 0.101330
+
+Group Q (38):
+First Date: 10.988282
+Last Date: 17.911594
+Txs: 0.245562
+No. Contracts: 0.000000
+No. Chains: 0.028231
+Contracts List: 0.000000
+Chains List: 0.039576
+Overall: 0.093901
+First Date Spread Variance: 0.127060
+Last Date Spread Variance: 0.107212
+First Date Clustering Score: 0.104487
+Last Date Clustering Score: 0.122159
+
+Group JD (28):
+First Date: 19.287901
+Last Date: 10.604728
+Txs: 0.189912
+No. Contracts: 0.000000
+No. Chains: 0.060704
+Contracts List: 0.000000
+Chains List: 0.064900
+Overall: 0.094127
+First Date Spread Variance: 0.144502
+Last Date Spread Variance: 0.070813
+First Date Clustering Score: 0.126427
+Last Date Clustering Score: 0.091019
+
+Group HE (31):
+First Date: 1.122151
+Last Date: 3.153771
+Txs: 0.242704
+No. Contracts: 0.000000
+No. Chains: 0.024478
+Contracts List: 0.000000
+Chains List: 0.044627
+Overall: 0.094153
+First Date Spread Variance: 0.036674
+Last Date Spread Variance: 0.040633
+First Date Clustering Score: 0.027591
+Last Date Clustering Score: 0.029184
+
+Group BH (76):
+First Date: 4.431502
+Last Date: 4.747740
+Txs: 0.165010
+No. Contracts: 0.000000
+No. Chains: 0.085653
+Contracts List: 0.000000
+Chains List: 0.071907
+Overall: 0.094496
+First Date Spread Variance: 0.114113
+Last Date Spread Variance: 0.078061
+First Date Clustering Score: 0.096579
+Last Date Clustering Score: 0.081403
+
+Group KA (180):
+First Date: 0.405208
+Last Date: 5.868918
+Txs: 0.198910
+No. Contracts: 0.000000
+No. Chains: 0.058315
+Contracts List: 0.000000
+Chains List: 0.061266
+Overall: 0.094698
+First Date Spread Variance: 0.053104
+Last Date Spread Variance: 0.133567
+First Date Clustering Score: 0.031837
+Last Date Clustering Score: 0.106991
+
+Group CQ (23):
+First Date: 10.150242
+Last Date: 13.975179
+Txs: 0.213815
+No. Contracts: 0.000000
+No. Chains: 0.053760
+Contracts List: 0.000000
+Chains List: 0.052276
+Overall: 0.094728
+First Date Spread Variance: 0.095007
+Last Date Spread Variance: 0.073676
+First Date Clustering Score: 0.063852
+Last Date Clustering Score: 0.089525
+
+Group HA (425):
+First Date: 1.762525
+Last Date: 7.292161
+Txs: 0.185907
+No. Contracts: 0.000000
+No. Chains: 0.070856
+Contracts List: 0.000000
+Chains List: 0.064739
+Overall: 0.094806
+First Date Spread Variance: 0.170182
+Last Date Spread Variance: 0.228774
+First Date Clustering Score: 0.143048
+Last Date Clustering Score: 0.198024
+
+Group EW (24):
+First Date: 0.003183
+Last Date: 0.017289
+Txs: 0.129730
+No. Contracts: 0.000000
+No. Chains: 0.103122
+Contracts List: 0.000000
+Chains List: 0.090477
+Overall: 0.094919
+First Date Spread Variance: 0.001719
+Last Date Spread Variance: 0.002647
+First Date Clustering Score: 0.000989
+Last Date Clustering Score: 0.003306
+
+Group LZ (25):
+First Date: 25.718784
+Last Date: 67.846656
+Txs: 0.129231
+No. Contracts: 0.000000
+No. Chains: 0.092749
+Contracts List: 0.000000
+Chains List: 0.095312
+Overall: 0.095005
+First Date Spread Variance: 0.157670
+Last Date Spread Variance: 0.169246
+First Date Clustering Score: 0.118777
+Last Date Clustering Score: 0.195735
+
+Group FO (24):
+First Date: 21.135344
+Last Date: 9.092593
+Txs: 0.254274
+No. Contracts: 0.000000
+No. Chains: 0.023917
+Contracts List: 0.000000
+Chains List: 0.038010
+Overall: 0.095020
+First Date Spread Variance: 0.140043
+Last Date Spread Variance: 0.060706
+First Date Clustering Score: 0.107371
+Last Date Clustering Score: 0.067215
+
+Group AH (44):
+First Date: 18.128897
+Last Date: 10.320847
+Txs: 0.173599
+No. Contracts: 0.000000
+No. Chains: 0.068858
+Contracts List: 0.000000
+Chains List: 0.075525
+Overall: 0.095155
+First Date Spread Variance: 0.175616
+Last Date Spread Variance: 0.087573
+First Date Clustering Score: 0.149474
+Last Date Clustering Score: 0.101899
+
+Group GD (150):
+First Date: 1.397216
+Last Date: 33.333791
+Txs: 0.223768
+No. Contracts: 0.000000
+No. Chains: 0.027692
+Contracts List: 0.000000
+Chains List: 0.060601
+Overall: 0.095628
+First Date Spread Variance: 0.090018
+Last Date Spread Variance: 0.290584
+First Date Clustering Score: 0.065879
+Last Date Clustering Score: 0.314378
+
+Group JJ (32):
+First Date: 0.065887
+Last Date: 0.779510
+Txs: 0.185788
+No. Contracts: 0.000000
+No. Chains: 0.074074
+Contracts List: 0.000000
+Chains List: 0.066141
+Overall: 0.095942
+First Date Spread Variance: 0.009029
+Last Date Spread Variance: 0.020524
+First Date Clustering Score: 0.007219
+Last Date Clustering Score: 0.021985
+
+Group GQ (42):
+First Date: 11.245127
+Last Date: 18.217161
+Txs: 0.209524
+No. Contracts: 0.000000
+No. Chains: 0.053763
+Contracts List: 0.000000
+Chains List: 0.058586
+Overall: 0.095973
+First Date Spread Variance: 0.135132
+Last Date Spread Variance: 0.113671
+First Date Clustering Score: 0.103257
+Last Date Clustering Score: 0.128851
+
+Group KL (341):
+First Date: 0.820174
+Last Date: 1.861670
+Txs: 0.180180
+No. Contracts: 0.000000
+No. Chains: 0.063878
+Contracts List: 0.000000
+Chains List: 0.076448
+Overall: 0.096279
+First Date Spread Variance: 0.103988
+Last Date Spread Variance: 0.103541
+First Date Clustering Score: 0.059939
+Last Date Clustering Score: 0.111688
+
+Group FT (37):
+First Date: 11.568081
+Last Date: 121.464632
+Txs: 0.196619
+No. Contracts: 0.000000
+No. Chains: 0.053261
+Contracts List: 0.000000
+Chains List: 0.068693
+Overall: 0.096422
+First Date Spread Variance: 0.128642
+Last Date Spread Variance: 0.275493
+First Date Clustering Score: 0.118117
+Last Date Clustering Score: 0.293070
+
+Group IK (73):
+First Date: 1.579869
+Last Date: 6.070089
+Txs: 0.167592
+No. Contracts: 0.000000
+No. Chains: 0.080568
+Contracts List: 0.000000
+Chains List: 0.078083
+Overall: 0.096635
+First Date Spread Variance: 0.066777
+Last Date Spread Variance: 0.086505
+First Date Clustering Score: 0.050137
+Last Date Clustering Score: 0.108233
+
+Group JQ (52):
+First Date: 15.844561
+Last Date: 13.008442
+Txs: 0.216346
+No. Contracts: 0.000000
+No. Chains: 0.053215
+Contracts List: 0.000000
+Chains List: 0.057396
+Overall: 0.097421
+First Date Spread Variance: 0.178482
+Last Date Spread Variance: 0.106880
+First Date Clustering Score: 0.150054
+Last Date Clustering Score: 0.124475
+
+Group HO (37):
+First Date: 16.598069
+Last Date: 12.336959
+Txs: 0.192405
+No. Contracts: 0.000000
+No. Chains: 0.051864
+Contracts List: 0.000000
+Chains List: 0.078063
+Overall: 0.098229
+First Date Spread Variance: 0.154093
+Last Date Spread Variance: 0.087799
+First Date Clustering Score: 0.141523
+Last Date Clustering Score: 0.091015
+
+Group IT (158):
+First Date: 26.263140
+Last Date: 36.999502
+Txs: 0.212780
+No. Contracts: 0.000000
+No. Chains: 0.058925
+Contracts List: 0.000000
+Chains List: 0.058869
+Overall: 0.098281
+First Date Spread Variance: 0.400548
+Last Date Spread Variance: 0.314203
+First Date Clustering Score: 0.394653
+Last Date Clustering Score: 0.417959
+
+Group EE (122):
+First Date: 0.614733
+Last Date: 11.884698
+Txs: 0.125643
+No. Contracts: 0.000000
+No. Chains: 0.109167
+Contracts List: 0.000000
+Chains List: 0.099211
+Overall: 0.098434
+First Date Spread Variance: 0.053849
+Last Date Spread Variance: 0.156480
+First Date Clustering Score: 0.045364
+Last Date Clustering Score: 0.188062
+
+Group DG (37):
+First Date: 10.319389
+Last Date: 96.228812
+Txs: 0.168411
+No. Contracts: 0.000000
+No. Chains: 0.076634
+Contracts List: 0.000000
+Chains List: 0.083443
+Overall: 0.098580
+First Date Spread Variance: 0.121501
+Last Date Spread Variance: 0.245210
+First Date Clustering Score: 0.108008
+Last Date Clustering Score: 0.168671
+
+Group AK (104):
+First Date: 2.201539
+Last Date: 9.744947
+Txs: 0.162118
+No. Contracts: 0.000000
+No. Chains: 0.089452
+Contracts List: 0.000000
+Chains List: 0.082491
+Overall: 0.098588
+First Date Spread Variance: 0.094088
+Last Date Spread Variance: 0.130825
+First Date Clustering Score: 0.056814
+Last Date Clustering Score: 0.158076
+
+Group FU (233):
+First Date: 2.800096
+Last Date: 8.403669
+Txs: 0.214329
+No. Contracts: 0.000000
+No. Chains: 0.050019
+Contracts List: 0.000000
+Chains List: 0.063861
+Overall: 0.098603
+First Date Spread Variance: 0.158824
+Last Date Spread Variance: 0.181843
+First Date Clustering Score: 0.142182
+Last Date Clustering Score: 0.198673
+
+Group GH (3857):
+First Date: 0.121352
+Last Date: 0.080833
+Txs: 0.176754
+No. Contracts: 0.000000
+No. Chains: 0.078048
+Contracts List: 0.000000
+Chains List: 0.077956
+Overall: 0.098740
+First Date Spread Variance: 0.134525
+Last Date Spread Variance: 0.072561
+First Date Clustering Score: 0.120787
+Last Date Clustering Score: 0.083966
+
+Group K (24):
+First Date: 0.777705
+Last Date: 22.043981
+Txs: 0.164103
+No. Contracts: 0.000000
+No. Chains: 0.087379
+Contracts List: 0.000000
+Chains List: 0.082966
+Overall: 0.098970
+First Date Spread Variance: 0.026864
+Last Date Spread Variance: 0.094522
+First Date Clustering Score: 0.019712
+Last Date Clustering Score: 0.119564
+
+Group JY (23):
+First Date: 172.610339
+Last Date: 48.116216
+Txs: 0.217757
+No. Contracts: 0.000000
+No. Chains: 0.057567
+Contracts List: 0.000000
+Chains List: 0.055583
+Overall: 0.099349
+First Date Spread Variance: 0.391787
+Last Date Spread Variance: 0.136708
+First Date Clustering Score: 0.319651
+Last Date Clustering Score: 0.141454
+
+Group FH (23):
+First Date: 4.128051
+Last Date: 6.218624
+Txs: 0.165886
+No. Contracts: 0.000000
+No. Chains: 0.079248
+Contracts List: 0.000000
+Chains List: 0.086987
+Overall: 0.099391
+First Date Spread Variance: 0.060588
+Last Date Spread Variance: 0.049147
+First Date Clustering Score: 0.034924
+Last Date Clustering Score: 0.044326
+
+Group KX (2691):
+First Date: 0.142705
+Last Date: 0.115347
+Txs: 0.203889
+No. Contracts: 0.000000
+No. Chains: 0.064988
+Contracts List: 0.000000
+Chains List: 0.066170
+Overall: 0.099436
+First Date Spread Variance: 0.121851
+Last Date Spread Variance: 0.072401
+First Date Clustering Score: 0.103412
+Last Date Clustering Score: 0.077255
+
+Group ET (27):
+First Date: 17.204491
+Last Date: 6.362140
+Txs: 0.224900
+No. Contracts: 0.000000
+No. Chains: 0.044404
+Contracts List: 0.000000
+Chains List: 0.061367
+Overall: 0.099696
+First Date Spread Variance: 0.134016
+Last Date Spread Variance: 0.053860
+First Date Clustering Score: 0.108297
+Last Date Clustering Score: 0.054391
+
+Group CT (112):
+First Date: 9.089442
+Last Date: 2.317920
+Txs: 0.248705
+No. Contracts: 0.000000
+No. Chains: 0.041099
+Contracts List: 0.000000
+Chains List: 0.046424
+Overall: 0.100078
+First Date Spread Variance: 0.198395
+Last Date Spread Variance: 0.066213
+First Date Clustering Score: 0.175305
+Last Date Clustering Score: 0.078596
+
+Group KH (32):
+First Date: 27.333466
+Last Date: 77.273315
+Txs: 0.206618
+No. Contracts: 0.000000
+No. Chains: 0.054479
+Contracts List: 0.000000
+Chains List: 0.070106
+Overall: 0.100137
+First Date Spread Variance: 0.183897
+Last Date Spread Variance: 0.204350
+First Date Clustering Score: 0.167648
+Last Date Clustering Score: 0.206628
+
+Group HN (70):
+First Date: 3.452466
+Last Date: 21.501528
+Txs: 0.198529
+No. Contracts: 0.000000
+No. Chains: 0.042451
+Contracts List: 0.000000
+Chains List: 0.083481
+Overall: 0.100181
+First Date Spread Variance: 0.096664
+Last Date Spread Variance: 0.159429
+First Date Clustering Score: 0.088988
+Last Date Clustering Score: 0.166060
+
+Group KS (129):
+First Date: 5.234819
+Last Date: 20.229552
+Txs: 0.222410
+No. Contracts: 0.000000
+No. Chains: 0.047026
+Contracts List: 0.000000
+Chains List: 0.063461
+Overall: 0.100279
+First Date Spread Variance: 0.161584
+Last Date Spread Variance: 0.209929
+First Date Clustering Score: 0.137803
+Last Date Clustering Score: 0.219546
+
+Group LX (158):
+First Date: 0.294967
+Last Date: 1.988779
+Txs: 0.143046
+No. Contracts: 0.000000
+No. Chains: 0.031809
+Contracts List: 0.000000
+Chains List: 0.133768
+Overall: 0.101362
+First Date Spread Variance: 0.042449
+Last Date Spread Variance: 0.072846
+First Date Clustering Score: 0.037039
+Last Date Clustering Score: 0.089222
+
+Group IU (58):
+First Date: 52.249826
+Last Date: 162.338887
+Txs: 0.201112
+No. Contracts: 0.000000
+No. Chains: 0.069060
+Contracts List: 0.000000
+Chains List: 0.069573
+Overall: 0.101778
+First Date Spread Variance: 0.342302
+Last Date Spread Variance: 0.398758
+First Date Clustering Score: 0.325435
+Last Date Clustering Score: 0.515079
+
+Group GG (57):
+First Date: 10.921223
+Last Date: 50.817687
+Txs: 0.163521
+No. Contracts: 0.000000
+No. Chains: 0.074148
+Contracts List: 0.000000
+Chains List: 0.097028
+Overall: 0.101822
+First Date Spread Variance: 0.155141
+Last Date Spread Variance: 0.221171
+First Date Clustering Score: 0.146656
+Last Date Clustering Score: 0.245915
+
+Group HU (80):
+First Date: 20.194719
+Last Date: 120.541389
+Txs: 0.232363
+No. Contracts: 0.000000
+No. Chains: 0.047266
+Contracts List: 0.000000
+Chains List: 0.060044
+Overall: 0.102396
+First Date Spread Variance: 0.249929
+Last Date Spread Variance: 0.403550
+First Date Clustering Score: 0.159777
+Last Date Clustering Score: 0.488045
+
+Group B (23):
+First Date: 11.684885
+Last Date: 10.595874
+Txs: 0.192075
+No. Contracts: 0.000000
+No. Chains: 0.075362
+Contracts List: 0.000000
+Chains List: 0.076855
+Overall: 0.102404
+First Date Spread Variance: 0.101936
+Last Date Spread Variance: 0.064153
+First Date Clustering Score: 0.091238
+Last Date Clustering Score: 0.069481
+
+Group CL (87):
+First Date: 2.189943
+Last Date: 0.360099
+Txs: 0.188322
+No. Contracts: 0.000000
+No. Chains: 0.086126
+Contracts List: 0.000000
+Chains List: 0.074398
+Overall: 0.102414
+First Date Spread Variance: 0.085828
+Last Date Spread Variance: 0.023001
+First Date Clustering Score: 0.066784
+Last Date Clustering Score: 0.026202
+
+Group HI (22):
+First Date: 2.706330
+Last Date: 786.572878
+Txs: 0.172109
+No. Contracts: 0.000000
+No. Chains: 0.073656
+Contracts List: 0.000000
+Chains List: 0.087097
+Overall: 0.102942
+First Date Spread Variance: 0.047979
+Last Date Spread Variance: 0.540586
+First Date Clustering Score: 0.023512
+Last Date Clustering Score: 0.308235
+
+Group F (25):
+First Date: 19.661824
+Last Date: 40.928000
+Txs: 0.131989
+No. Contracts: 0.000000
+No. Chains: 0.062329
+Contracts List: 0.000000
+Chains List: 0.130179
+Overall: 0.103203
+First Date Spread Variance: 0.137859
+Last Date Spread Variance: 0.131451
+First Date Clustering Score: 0.115463
+Last Date Clustering Score: 0.159101
+
+Group GR (35):
+First Date: 33.246041
+Last Date: 13.606857
+Txs: 0.209119
+No. Contracts: 0.000000
+No. Chains: 0.065656
+Contracts List: 0.000000
+Chains List: 0.071735
+Overall: 0.103611
+First Date Spread Variance: 0.212108
+Last Date Spread Variance: 0.089680
+First Date Clustering Score: 0.195382
+Last Date Clustering Score: 0.106819
+
+Group IV (28):
+First Date: 8.444014
+Last Date: 5.095253
+Txs: 0.273109
+No. Contracts: 0.000000
+No. Chains: 0.033613
+Contracts List: 0.000000
+Chains List: 0.041075
+Overall: 0.103646
+First Date Spread Variance: 0.095611
+Last Date Spread Variance: 0.049085
+First Date Clustering Score: 0.093186
+Last Date Clustering Score: 0.050346
+
+Group CZ (39):
+First Date: 76.103710
+Last Date: 9.957316
+Txs: 0.232601
+No. Contracts: 0.000000
+No. Chains: 0.054655
+Contracts List: 0.000000
+Chains List: 0.059980
+Overall: 0.103980
+First Date Spread Variance: 0.338757
+Last Date Spread Variance: 0.080982
+First Date Clustering Score: 0.298350
+Last Date Clustering Score: 0.104322
+
+Group JI (33):
+First Date: 12.955172
+Last Date: 18.811420
+Txs: 0.201500
+No. Contracts: 0.000000
+No. Chains: 0.082412
+Contracts List: 0.000000
+Chains List: 0.070059
+Overall: 0.103983
+First Date Spread Variance: 0.128567
+Last Date Spread Variance: 0.102389
+First Date Clustering Score: 0.116555
+Last Date Clustering Score: 0.098616
+
+Group EC (51):
+First Date: 6.329074
+Last Date: 25.164484
+Txs: 0.178800
+No. Contracts: 0.000000
+No. Chains: 0.090014
+Contracts List: 0.000000
+Chains List: 0.083262
+Overall: 0.104013
+First Date Spread Variance: 0.111714
+Last Date Spread Variance: 0.147219
+First Date Clustering Score: 0.080611
+Last Date Clustering Score: 0.177516
+
+Group DY (112):
+First Date: 1.241669
+Last Date: 0.524240
+Txs: 0.190343
+No. Contracts: 0.000000
+No. Chains: 0.087833
+Contracts List: 0.000000
+Chains List: 0.077089
+Overall: 0.104411
+First Date Spread Variance: 0.073327
+Last Date Spread Variance: 0.031489
+First Date Clustering Score: 0.059255
+Last Date Clustering Score: 0.026277
+
+Group IY (22):
+First Date: 2.932476
+Last Date: 3.365890
+Txs: 0.216783
+No. Contracts: 0.000000
+No. Chains: 0.061279
+Contracts List: 0.000000
+Chains List: 0.071081
+Overall: 0.104450
+First Date Spread Variance: 0.049944
+Last Date Spread Variance: 0.035363
+First Date Clustering Score: 0.048657
+Last Date Clustering Score: 0.044745
+
+Group HC (132):
+First Date: 1.286673
+Last Date: 2.219103
+Txs: 0.197921
+No. Contracts: 0.000000
+No. Chains: 0.075949
+Contracts List: 0.000000
+Chains List: 0.078095
+Overall: 0.104625
+First Date Spread Variance: 0.081035
+Last Date Spread Variance: 0.070333
+First Date Clustering Score: 0.071834
+Last Date Clustering Score: 0.078463
+
+Group LH (104):
+First Date: 0.588202
+Last Date: 0.967782
+Txs: 0.199722
+No. Contracts: 0.000000
+No. Chains: 0.075756
+Contracts List: 0.000000
+Chains List: 0.077235
+Overall: 0.104768
+First Date Spread Variance: 0.048633
+Last Date Spread Variance: 0.041228
+First Date Clustering Score: 0.037648
+Last Date Clustering Score: 0.040150
+
+Group R (91):
+First Date: 0.410186
+Last Date: 8.838546
+Txs: 0.201654
+No. Contracts: 0.000000
+No. Chains: 0.080917
+Contracts List: 0.000000
+Chains List: 0.073752
+Overall: 0.105046
+First Date Spread Variance: 0.037989
+Last Date Spread Variance: 0.116545
+First Date Clustering Score: 0.029401
+Last Date Clustering Score: 0.143014
+
+Group FW (301):
+First Date: 2.416605
+Last Date: 1.888541
+Txs: 0.233538
+No. Contracts: 0.000000
+No. Chains: 0.052419
+Contracts List: 0.000000
+Chains List: 0.065695
+Overall: 0.105452
+First Date Spread Variance: 0.167702
+Last Date Spread Variance: 0.097978
+First Date Clustering Score: 0.142080
+Last Date Clustering Score: 0.111410
+
+Group LT (59):
+First Date: 2.213654
+Last Date: 7.363450
+Txs: 0.264568
+No. Contracts: 0.000000
+No. Chains: 0.042383
+Contracts List: 0.000000
+Chains List: 0.048327
+Overall: 0.105733
+First Date Spread Variance: 0.071061
+Last Date Spread Variance: 0.085655
+First Date Clustering Score: 0.062208
+Last Date Clustering Score: 0.103067
+
+Group CJ (34):
+First Date: 760.704356
+Last Date: 9.725448
+Txs: 0.191816
+No. Contracts: 0.000000
+No. Chains: 0.077609
+Contracts List: 0.000000
+Chains List: 0.071349
+Overall: 0.106406
+First Date Spread Variance: 1.000000
+Last Date Spread Variance: 0.074727
+First Date Clustering Score: 1.000000
+Last Date Clustering Score: 0.088563
+
+Group BV (21):
+First Date: 123.792679
+Last Date: 5.800022
+Txs: 0.167651
+No. Contracts: 0.000000
+No. Chains: 0.082540
+Contracts List: 0.000000
+Chains List: 0.100380
+Overall: 0.106781
+First Date Spread Variance: 0.317037
+Last Date Spread Variance: 0.045353
+First Date Clustering Score: 0.282447
+Last Date Clustering Score: 0.051459
+
+Group AT (25):
+First Date: 30.834304
+Last Date: 7.014656
+Txs: 0.226508
+No. Contracts: 0.000000
+No. Chains: 0.066791
+Contracts List: 0.000000
+Chains List: 0.067011
+Overall: 0.107067
+First Date Spread Variance: 0.172639
+Last Date Spread Variance: 0.054420
+First Date Clustering Score: 0.162713
+Last Date Clustering Score: 0.060071
+
+Group AA (50):
+First Date: 3.484128
+Last Date: 3.832008
+Txs: 0.134545
+No. Contracts: 0.000000
+No. Chains: 0.113959
+Contracts List: 0.000000
+Chains List: 0.112262
+Overall: 0.107170
+First Date Spread Variance: 0.082070
+Last Date Spread Variance: 0.056883
+First Date Clustering Score: 0.071548
+Last Date Clustering Score: 0.049790
+
+Group GY (49):
+First Date: 12.687741
+Last Date: 38.302544
+Txs: 0.215238
+No. Contracts: 0.000000
+No. Chains: 0.077458
+Contracts List: 0.000000
+Chains List: 0.072819
+Overall: 0.108180
+First Date Spread Variance: 0.155040
+Last Date Spread Variance: 0.178031
+First Date Clustering Score: 0.123238
+Last Date Clustering Score: 0.163437
+
+Group FI (24):
+First Date: 5.263600
+Last Date: 182.855830
+Txs: 0.229927
+No. Contracts: 0.000000
+No. Chains: 0.050489
+Contracts List: 0.000000
+Chains List: 0.074765
+Overall: 0.108243
+First Date Spread Variance: 0.069888
+Last Date Spread Variance: 0.272235
+First Date Clustering Score: 0.050438
+Last Date Clustering Score: 0.279465
+
+Group EN (24):
+First Date: 8.947627
+Last Date: 285.375000
+Txs: 0.195652
+No. Contracts: 0.000000
+No. Chains: 0.062914
+Contracts List: 0.000000
+Chains List: 0.093230
+Overall: 0.108343
+First Date Spread Variance: 0.091120
+Last Date Spread Variance: 0.340093
+First Date Clustering Score: 0.065182
+Last Date Clustering Score: 0.452590
+
+Group IS (20):
+First Date: 62.469500
+Last Date: 204.506375
+Txs: 0.272477
+No. Contracts: 0.000000
+No. Chains: 0.040299
+Contracts List: 0.000000
+Chains List: 0.047217
+Overall: 0.108382
+First Date Spread Variance: 0.219787
+Last Date Spread Variance: 0.262816
+First Date Clustering Score: 0.192580
+Last Date Clustering Score: 0.235074
+
+Group HT (34):
+First Date: 0.554956
+Last Date: 79.396296
+Txs: 0.195046
+No. Contracts: 0.000000
+No. Chains: 0.072254
+Contracts List: 0.000000
+Chains List: 0.092779
+Overall: 0.109081
+First Date Spread Variance: 0.027010
+Last Date Spread Variance: 0.213513
+First Date Clustering Score: 0.022847
+Last Date Clustering Score: 0.155059
+
+Group DQ (22):
+First Date: 15.012021
+Last Date: 16.901578
+Txs: 0.227273
+No. Contracts: 0.000000
+No. Chains: 0.066577
+Contracts List: 0.000000
+Chains List: 0.072785
+Overall: 0.109436
+First Date Spread Variance: 0.113001
+Last Date Spread Variance: 0.079243
+First Date Clustering Score: 0.090519
+Last Date Clustering Score: 0.093495
+
+Group KZ (33):
+First Date: 10.763558
+Last Date: 12.503381
+Txs: 0.276476
+No. Contracts: 0.000000
+No. Chains: 0.043171
+Contracts List: 0.000000
+Chains List: 0.048320
+Overall: 0.109487
+First Date Spread Variance: 0.117189
+Last Date Spread Variance: 0.083475
+First Date Clustering Score: 0.105701
+Last Date Clustering Score: 0.087349
+
+Group DE (58):
+First Date: 17.322364
+Last Date: 1.086950
+Txs: 0.198246
+No. Contracts: 0.000000
+No. Chains: 0.069628
+Contracts List: 0.000000
+Chains List: 0.093637
+Overall: 0.109673
+First Date Spread Variance: 0.197093
+Last Date Spread Variance: 0.032629
+First Date Clustering Score: 0.184131
+Last Date Clustering Score: 0.034775
+
+Group DI (47):
+First Date: 11.677335
+Last Date: 18.792849
+Txs: 0.227131
+No. Contracts: 0.000000
+No. Chains: 0.071900
+Contracts List: 0.000000
+Chains List: 0.072177
+Overall: 0.110222
+First Date Spread Variance: 0.145671
+Last Date Spread Variance: 0.122132
+First Date Clustering Score: 0.126207
+Last Date Clustering Score: 0.125935
+
+Group W (24):
+First Date: 9.247613
+Last Date: 17.731481
+Txs: 0.185959
+No. Contracts: 0.000000
+No. Chains: 0.102638
+Contracts List: 0.000000
+Chains List: 0.088444
+Overall: 0.110735
+First Date Spread Variance: 0.092635
+Last Date Spread Variance: 0.084774
+First Date Clustering Score: 0.077005
+Last Date Clustering Score: 0.110878
+
+Group AL (182):
+First Date: 4.695813
+Last Date: 3.030967
+Txs: 0.232601
+No. Contracts: 0.000000
+No. Chains: 0.077931
+Contracts List: 0.000000
+Chains List: 0.067781
+Overall: 0.111222
+First Date Spread Variance: 0.181779
+Last Date Spread Variance: 0.096518
+First Date Clustering Score: 0.159264
+Last Date Clustering Score: 0.110924
+
+Group IO (23):
+First Date: 33.143421
+Last Date: 7.740281
+Txs: 0.231613
+No. Contracts: 0.000000
+No. Chains: 0.021739
+Contracts List: 0.000000
+Chains List: 0.097311
+Overall: 0.111339
+First Date Spread Variance: 0.171678
+Last Date Spread Variance: 0.054831
+First Date Clustering Score: 0.099021
+Last Date Clustering Score: 0.050205
+
+Group KN (31):
+First Date: 58.419456
+Last Date: 14.221342
+Txs: 0.170618
+No. Contracts: 0.000000
+No. Chains: 0.106535
+Contracts List: 0.000000
+Chains List: 0.099159
+Overall: 0.111594
+First Date Spread Variance: 0.264614
+Last Date Spread Variance: 0.086285
+First Date Clustering Score: 0.249636
+Last Date Clustering Score: 0.104588
+
+Group FD (27):
+First Date: 1.424783
+Last Date: 8.167353
+Txs: 0.244995
+No. Contracts: 0.000000
+No. Chains: 0.053408
+Contracts List: 0.000000
+Chains List: 0.072763
+Overall: 0.111831
+First Date Spread Variance: 0.038566
+Last Date Spread Variance: 0.061025
+First Date Clustering Score: 0.027598
+Last Date Clustering Score: 0.080961
+
+Group IE (59):
+First Date: 48.864061
+Last Date: 70.501823
+Txs: 0.255687
+No. Contracts: 0.000000
+No. Chains: 0.047040
+Contracts List: 0.000000
+Chains List: 0.069346
+Overall: 0.112931
+First Date Spread Variance: 0.333867
+Last Date Spread Variance: 0.265039
+First Date Clustering Score: 0.262093
+Last Date Clustering Score: 0.276393
+
+Group GX (28):
+First Date: 5.998542
+Last Date: 8.837646
+Txs: 0.213450
+No. Contracts: 0.000000
+No. Chains: 0.085631
+Contracts List: 0.000000
+Chains List: 0.083388
+Overall: 0.113324
+First Date Spread Variance: 0.080585
+Last Date Spread Variance: 0.064644
+First Date Clustering Score: 0.062421
+Last Date Clustering Score: 0.072838
+
+Group KB (28):
+First Date: 23.231778
+Last Date: 55.205175
+Txs: 0.235152
+No. Contracts: 0.000000
+No. Chains: 0.064286
+Contracts List: 0.000000
+Chains List: 0.077524
+Overall: 0.113361
+First Date Spread Variance: 0.158589
+Last Date Spread Variance: 0.161567
+First Date Clustering Score: 0.145385
+Last Date Clustering Score: 0.168384
+
+Group JP (41):
+First Date: 8.280901
+Last Date: 13.281235
+Txs: 0.233609
+No. Contracts: 0.000000
+No. Chains: 0.080825
+Contracts List: 0.000000
+Chains List: 0.070865
+Overall: 0.113389
+First Date Spread Variance: 0.114573
+Last Date Spread Variance: 0.095895
+First Date Clustering Score: 0.079690
+Last Date Clustering Score: 0.097522
+
+Group FF (72):
+First Date: 42.746228
+Last Date: 51.756942
+Txs: 0.244398
+No. Contracts: 0.000000
+No. Chains: 0.066801
+Contracts List: 0.000000
+Chains List: 0.070375
+Overall: 0.113923
+First Date Spread Variance: 0.344959
+Last Date Spread Variance: 0.250862
+First Date Clustering Score: 0.273976
+Last Date Clustering Score: 0.261774
+
+Group AZ (29):
+First Date: 9.457788
+Last Date: 6.783796
+Txs: 0.183266
+No. Contracts: 0.000000
+No. Chains: 0.103548
+Contracts List: 0.000000
+Chains List: 0.099649
+Overall: 0.114502
+First Date Spread Variance: 0.102978
+Last Date Spread Variance: 0.057639
+First Date Clustering Score: 0.083930
+Last Date Clustering Score: 0.071948
+
+Group U (180):
+First Date: 0.412671
+Last Date: 3.203142
+Txs: 0.245631
+No. Contracts: 0.000000
+No. Chains: 0.062552
+Contracts List: 0.000000
+Chains List: 0.074411
+Overall: 0.114506
+First Date Spread Variance: 0.053591
+Last Date Spread Variance: 0.098675
+First Date Clustering Score: 0.040435
+Last Date Clustering Score: 0.111226
+
+Group N (29):
+First Date: 25.735044
+Last Date: 33.471401
+Txs: 0.263323
+No. Contracts: 0.000000
+No. Chains: 0.048497
+Contracts List: 0.000000
+Chains List: 0.068513
+Overall: 0.114839
+First Date Spread Variance: 0.169869
+Last Date Spread Variance: 0.128032
+First Date Clustering Score: 0.099078
+Last Date Clustering Score: 0.140961
+
+Group JB (25):
+First Date: 5.157504
+Last Date: 131.789184
+Txs: 0.262695
+No. Contracts: 0.000000
+No. Chains: 0.049585
+Contracts List: 0.000000
+Chains List: 0.068756
+Overall: 0.115168
+First Date Spread Variance: 0.070606
+Last Date Spread Variance: 0.235882
+First Date Clustering Score: 0.066887
+Last Date Clustering Score: 0.224328
+
+Group CK (25):
+First Date: 4.055296
+Last Date: 1.875584
+Txs: 0.237143
+No. Contracts: 0.000000
+No. Chains: 0.088591
+Contracts List: 0.000000
+Chains List: 0.070577
+Overall: 0.115827
+First Date Spread Variance: 0.062609
+Last Date Spread Variance: 0.028140
+First Date Clustering Score: 0.049280
+Last Date Clustering Score: 0.032109
+
+Group EF (80):
+First Date: 28.931326
+Last Date: 8.943967
+Txs: 0.240526
+No. Contracts: 0.000000
+No. Chains: 0.070587
+Contracts List: 0.000000
+Chains List: 0.077352
+Overall: 0.116040
+First Date Spread Variance: 0.299145
+Last Date Spread Variance: 0.109924
+First Date Clustering Score: 0.197897
+Last Date Clustering Score: 0.116099
+
+Group GB (35):
+First Date: 16.805038
+Last Date: 46.650402
+Txs: 0.226087
+No. Contracts: 0.000000
+No. Chains: 0.073608
+Contracts List: 0.000000
+Chains List: 0.086912
+Overall: 0.116206
+First Date Spread Variance: 0.150802
+Last Date Spread Variance: 0.166053
+First Date Clustering Score: 0.137561
+Last Date Clustering Score: 0.166699
+
+Group KK (51):
+First Date: 3.438150
+Last Date: 13.445206
+Txs: 0.230812
+No. Contracts: 0.000000
+No. Chains: 0.077767
+Contracts List: 0.000000
+Chains List: 0.082452
+Overall: 0.116468
+First Date Spread Variance: 0.082338
+Last Date Spread Variance: 0.107610
+First Date Clustering Score: 0.062642
+Last Date Clustering Score: 0.123911
+
+Group GA (187):
+First Date: 0.868037
+Last Date: 9.572515
+Txs: 0.231042
+No. Contracts: 0.000000
+No. Chains: 0.081553
+Contracts List: 0.000000
+Chains List: 0.081425
+Overall: 0.116869
+First Date Spread Variance: 0.079221
+Last Date Spread Variance: 0.173867
+First Date Clustering Score: 0.070551
+Last Date Clustering Score: 0.182854
+
+Group LO (59):
+First Date: 21.614975
+Last Date: 99.908257
+Txs: 0.262524
+No. Contracts: 0.000000
+No. Chains: 0.054945
+Contracts List: 0.000000
+Chains List: 0.070624
+Overall: 0.116958
+First Date Spread Variance: 0.222053
+Last Date Spread Variance: 0.315508
+First Date Clustering Score: 0.207766
+Last Date Clustering Score: 0.395761
+
+Group JM (75):
+First Date: 11.280128
+Last Date: 4.982789
+Txs: 0.215758
+No. Contracts: 0.000000
+No. Chains: 0.084681
+Contracts List: 0.000000
+Chains List: 0.092339
+Overall: 0.117363
+First Date Spread Variance: 0.180859
+Last Date Spread Variance: 0.079442
+First Date Clustering Score: 0.167001
+Last Date Clustering Score: 0.087021
+
+Group MA (80):
+First Date: 97.739514
+Last Date: 43.867844
+Txs: 0.230453
+No. Contracts: 0.000000
+No. Chains: 0.088503
+Contracts List: 0.000000
+Chains List: 0.078102
+Overall: 0.117677
+First Date Spread Variance: 0.549835
+Last Date Spread Variance: 0.243446
+First Date Clustering Score: 0.544472
+Last Date Clustering Score: 0.254032
+
+Group HG (488):
+First Date: 0.090719
+Last Date: 0.018544
+Txs: 0.256226
+No. Contracts: 0.000000
+No. Chains: 0.019974
+Contracts List: 0.000000
+Chains List: 0.098442
+Overall: 0.118398
+First Date Spread Variance: 0.041373
+Last Date Spread Variance: 0.012362
+First Date Clustering Score: 0.039483
+Last Date Clustering Score: 0.013694
+
+Group GP (49):
+First Date: 4.581424
+Last Date: 9.958436
+Txs: 0.209225
+No. Contracts: 0.000000
+No. Chains: 0.107471
+Contracts List: 0.000000
+Chains List: 0.088213
+Overall: 0.118425
+First Date Spread Variance: 0.093165
+Last Date Spread Variance: 0.090777
+First Date Clustering Score: 0.064733
+Last Date Clustering Score: 0.096290
+
+Group AE (20):
+First Date: 24.972500
+Last Date: 46.649375
+Txs: 0.191736
+No. Contracts: 0.000000
+No. Chains: 0.068627
+Contracts List: 0.000000
+Chains List: 0.121123
+Overall: 0.118599
+First Date Spread Variance: 0.138963
+Last Date Spread Variance: 0.125523
+First Date Clustering Score: 0.102278
+Last Date Clustering Score: 0.153101
+
+Group EU (26):
+First Date: 1.646620
+Last Date: 5.682522
+Txs: 0.256939
+No. Contracts: 0.000000
+No. Chains: 0.059507
+Contracts List: 0.000000
+Chains List: 0.077983
+Overall: 0.118645
+First Date Spread Variance: 0.040685
+Last Date Spread Variance: 0.049951
+First Date Clustering Score: 0.022484
+Last Date Clustering Score: 0.044104
+
+Group GF (76):
+First Date: 1.098144
+Last Date: 4.297556
+Txs: 0.241990
+No. Contracts: 0.000000
+No. Chains: 0.081107
+Contracts List: 0.000000
+Chains List: 0.078132
+Overall: 0.118692
+First Date Spread Variance: 0.056805
+Last Date Spread Variance: 0.074268
+First Date Clustering Score: 0.038306
+Last Date Clustering Score: 0.083740
+
+Group LV (52):
+First Date: 101.256280
+Last Date: 70.769764
+Txs: 0.234781
+No. Contracts: 0.000000
+No. Chains: 0.074838
+Contracts List: 0.000000
+Chains List: 0.085364
+Overall: 0.119151
+First Date Spread Variance: 0.451196
+Last Date Spread Variance: 0.249293
+First Date Clustering Score: 0.407343
+Last Date Clustering Score: 0.273431
+
+Group HS (65):
+First Date: 2.318449
+Last Date: 37.911625
+Txs: 0.310817
+No. Contracts: 0.000000
+No. Chains: 0.041618
+Contracts List: 0.000000
+Chains List: 0.048640
+Overall: 0.119448
+First Date Spread Variance: 0.076332
+Last Date Spread Variance: 0.203998
+First Date Clustering Score: 0.036296
+Last Date Clustering Score: 0.239811
+
+Group GS (21):
+First Date: 141.060793
+Last Date: 6.727783
+Txs: 0.175682
+No. Contracts: 0.000000
+No. Chains: 0.130685
+Contracts List: 0.000000
+Chains List: 0.102041
+Overall: 0.119759
+First Date Spread Variance: 0.338427
+Last Date Spread Variance: 0.048846
+First Date Clustering Score: 0.288054
+Last Date Clustering Score: 0.050207
+
+Group LA (918):
+First Date: 0.507463
+Last Date: 4.247311
+Txs: 0.275595
+No. Contracts: 0.000000
+No. Chains: 0.066029
+Contracts List: 0.000000
+Chains List: 0.063735
+Overall: 0.119850
+First Date Spread Variance: 0.134207
+Last Date Spread Variance: 0.256603
+First Date Clustering Score: 0.116164
+Last Date Clustering Score: 0.231287
+
+Group CS (28):
+First Date: 15.668914
+Last Date: 10.750866
+Txs: 0.280689
+No. Contracts: 0.000000
+No. Chains: 0.058824
+Contracts List: 0.000000
+Chains List: 0.063702
+Overall: 0.120011
+First Date Spread Variance: 0.130242
+Last Date Spread Variance: 0.071299
+First Date Clustering Score: 0.110475
+Last Date Clustering Score: 0.083344
+
+Group DD (63):
+First Date: 5.056097
+Last Date: 3.067375
+Txs: 0.267711
+No. Contracts: 0.000000
+No. Chains: 0.071068
+Contracts List: 0.000000
+Chains List: 0.067591
+Overall: 0.120103
+First Date Spread Variance: 0.110976
+Last Date Spread Variance: 0.057127
+First Date Clustering Score: 0.083342
+Last Date Clustering Score: 0.066275
+
+Group FQ (20):
+First Date: 4.721375
+Last Date: 6.267375
+Txs: 0.278761
+No. Contracts: 0.000000
+No. Chains: 0.062963
+Contracts List: 0.000000
+Chains List: 0.064145
+Overall: 0.120360
+First Date Spread Variance: 0.060423
+Last Date Spread Variance: 0.046009
+First Date Clustering Score: 0.037901
+Last Date Clustering Score: 0.044705
+
+Group HD (110):
+First Date: 7.593479
+Last Date: 10.744255
+Txs: 0.207050
+No. Contracts: 0.000000
+No. Chains: 0.099585
+Contracts List: 0.000000
+Chains List: 0.099101
+Overall: 0.120491
+First Date Spread Variance: 0.179709
+Last Date Spread Variance: 0.141276
+First Date Clustering Score: 0.147634
+Last Date Clustering Score: 0.138931
+
+Group GE (91):
+First Date: 1.278643
+Last Date: 71.416233
+Txs: 0.210549
+No. Contracts: 0.000000
+No. Chains: 0.100275
+Contracts List: 0.000000
+Chains List: 0.095980
+Overall: 0.120604
+First Date Spread Variance: 0.067073
+Last Date Spread Variance: 0.331286
+First Date Clustering Score: 0.060276
+Last Date Clustering Score: 0.421192
+
+Group EP (38):
+First Date: 0.711474
+Last Date: 16.860785
+Txs: 0.160221
+No. Contracts: 0.000000
+No. Chains: 0.119330
+Contracts List: 0.000000
+Chains List: 0.124521
+Overall: 0.120690
+First Date Spread Variance: 0.032331
+Last Date Spread Variance: 0.104020
+First Date Clustering Score: 0.024781
+Last Date Clustering Score: 0.126474
+
+Group BA (32):
+First Date: 21.061981
+Last Date: 5.771454
+Txs: 0.267817
+No. Contracts: 0.000000
+No. Chains: 0.073601
+Contracts List: 0.000000
+Chains List: 0.068636
+Overall: 0.121196
+First Date Spread Variance: 0.161427
+Last Date Spread Variance: 0.055847
+First Date Clustering Score: 0.139568
+Last Date Clustering Score: 0.067618
+
+Group GL (184):
+First Date: 1.111645
+Last Date: 13.431333
+Txs: 0.257239
+No. Contracts: 0.000000
+No. Chains: 0.073324
+Contracts List: 0.000000
+Chains List: 0.078232
+Overall: 0.121673
+First Date Spread Variance: 0.088929
+Last Date Spread Variance: 0.204293
+First Date Clustering Score: 0.069755
+Last Date Clustering Score: 0.238823
+
+Group EI (52):
+First Date: 2.318353
+Last Date: 7.580621
+Txs: 0.255731
+No. Contracts: 0.000000
+No. Chains: 0.083946
+Contracts List: 0.000000
+Chains List: 0.077997
+Overall: 0.123291
+First Date Spread Variance: 0.068272
+Last Date Spread Variance: 0.081590
+First Date Clustering Score: 0.047487
+Last Date Clustering Score: 0.089492
+
+Group KY (40):
+First Date: 11.796188
+Last Date: 28.791734
+Txs: 0.251980
+No. Contracts: 0.000000
+No. Chains: 0.071042
+Contracts List: 0.000000
+Chains List: 0.088795
+Overall: 0.123956
+First Date Spread Variance: 0.135068
+Last Date Spread Variance: 0.139459
+First Date Clustering Score: 0.100433
+Last Date Clustering Score: 0.139925
+
+Group AS (71):
+First Date: 6.961658
+Last Date: 3.126509
+Txs: 0.240292
+No. Contracts: 0.000000
+No. Chains: 0.085598
+Contracts List: 0.000000
+Chains List: 0.090443
+Overall: 0.123997
+First Date Spread Variance: 0.138241
+Last Date Spread Variance: 0.061227
+First Date Clustering Score: 0.133981
+Last Date Clustering Score: 0.062126
+
+Group JW (29):
+First Date: 22.500882
+Last Date: 34.236664
+Txs: 0.204294
+No. Contracts: 0.000000
+No. Chains: 0.089655
+Contracts List: 0.000000
+Chains List: 0.115421
+Overall: 0.124281
+First Date Spread Variance: 0.158837
+Last Date Spread Variance: 0.129488
+First Date Clustering Score: 0.133561
+Last Date Clustering Score: 0.134905
+
+Group LP (1016):
+First Date: 0.851531
+Last Date: 3.729691
+Txs: 0.270338
+No. Contracts: 0.000000
+No. Chains: 0.078204
+Contracts List: 0.000000
+Chains List: 0.073396
+Overall: 0.124589
+First Date Spread Variance: 0.182894
+Last Date Spread Variance: 0.252969
+First Date Clustering Score: 0.166373
+Last Date Clustering Score: 0.294049
+
+Group AF (39):
+First Date: 4.523171
+Last Date: 19.375040
+Txs: 0.165848
+No. Contracts: 0.000000
+No. Chains: 0.091240
+Contracts List: 0.000000
+Chains List: 0.147210
+Overall: 0.125596
+First Date Spread Variance: 0.082586
+Last Date Spread Variance: 0.112963
+First Date Clustering Score: 0.062545
+Last Date Clustering Score: 0.116886
+
+Group G (217):
+First Date: 0.901698
+Last Date: 3.930316
+Txs: 0.194692
+No. Contracts: 0.000000
+No. Chains: 0.103194
+Contracts List: 0.000000
+Chains List: 0.119680
+Overall: 0.125611
+First Date Spread Variance: 0.086979
+Last Date Spread Variance: 0.120013
+First Date Clustering Score: 0.072567
+Last Date Clustering Score: 0.116792
+
+Group LF (25):
+First Date: 2.749696
+Last Date: 183.128064
+Txs: 0.158571
+No. Contracts: 0.000000
+No. Chains: 0.125878
+Contracts List: 0.000000
+Chains List: 0.134909
+Overall: 0.126248
+First Date Spread Variance: 0.051554
+Last Date Spread Variance: 0.278056
+First Date Clustering Score: 0.038156
+Last Date Clustering Score: 0.319446
+
+Group LI (268):
+First Date: 1.928335
+Last Date: 11.404019
+Txs: 0.273424
+No. Contracts: 0.000000
+No. Chains: 0.073124
+Contracts List: 0.000000
+Chains List: 0.077957
+Overall: 0.126296
+First Date Spread Variance: 0.141355
+Last Date Spread Variance: 0.227185
+First Date Clustering Score: 0.119662
+Last Date Clustering Score: 0.276645
+
+Group DT (31):
+First Date: 8.884025
+Last Date: 28.051559
+Txs: 0.233779
+No. Contracts: 0.000000
+No. Chains: 0.101169
+Contracts List: 0.000000
+Chains List: 0.094145
+Overall: 0.126815
+First Date Spread Variance: 0.103190
+Last Date Spread Variance: 0.121183
+First Date Clustering Score: 0.087379
+Last Date Clustering Score: 0.130934
+
+Group EM (29):
+First Date: 42.989462
+Last Date: 29.734470
+Txs: 0.248276
+No. Contracts: 0.000000
+No. Chains: 0.088276
+Contracts List: 0.000000
+Chains List: 0.090357
+Overall: 0.127239
+First Date Spread Variance: 0.219550
+Last Date Spread Variance: 0.120674
+First Date Clustering Score: 0.186486
+Last Date Clustering Score: 0.145101
+
+Group DH (21):
+First Date: 0.036929
+Last Date: 1399.430083
+Txs: 0.176398
+No. Contracts: 0.000000
+No. Chains: 0.115995
+Contracts List: 0.000000
+Chains List: 0.118361
+Overall: 0.127352
+First Date Spread Variance: 0.005476
+Last Date Spread Variance: 0.704481
+First Date Clustering Score: 0.003347
+Last Date Clustering Score: 0.468776
+
+Group DP (107):
+First Date: 1.595477
+Last Date: 2.516957
+Txs: 0.288050
+No. Contracts: 0.000000
+No. Chains: 0.070804
+Contracts List: 0.000000
+Chains List: 0.071256
+Overall: 0.127461
+First Date Spread Variance: 0.081244
+Last Date Spread Variance: 0.067439
+First Date Clustering Score: 0.070752
+Last Date Clustering Score: 0.089141
+
+Group AY (91):
+First Date: 3.009797
+Last Date: 2.216861
+Txs: 0.323033
+No. Contracts: 0.000000
+No. Chains: 0.051034
+Contracts List: 0.000000
+Chains List: 0.056527
+Overall: 0.127953
+First Date Spread Variance: 0.102906
+Last Date Spread Variance: 0.058368
+First Date Clustering Score: 0.076016
+Last Date Clustering Score: 0.068190
+
+Group KT (62):
+First Date: 11.278289
+Last Date: 45.072895
+Txs: 0.325901
+No. Contracts: 0.000000
+No. Chains: 0.046328
+Contracts List: 0.000000
+Chains List: 0.057303
+Overall: 0.128364
+First Date Spread Variance: 0.164426
+Last Date Spread Variance: 0.217239
+First Date Clustering Score: 0.136997
+Last Date Clustering Score: 0.231769
+
+Group JK (37):
+First Date: 0.613350
+Last Date: 6.044736
+Txs: 0.278861
+No. Contracts: 0.000000
+No. Chains: 0.058909
+Contracts List: 0.000000
+Chains List: 0.086786
+Overall: 0.128448
+First Date Spread Variance: 0.029622
+Last Date Spread Variance: 0.061457
+First Date Clustering Score: 0.020436
+Last Date Clustering Score: 0.042865
+
+Group AB (32):
+First Date: 21.963745
+Last Date: 8.627899
+Txs: 0.247645
+No. Contracts: 0.000000
+No. Chains: 0.057692
+Contracts List: 0.000000
+Chains List: 0.113346
+Overall: 0.129631
+First Date Spread Variance: 0.164847
+Last Date Spread Variance: 0.068283
+First Date Clustering Score: 0.164361
+Last Date Clustering Score: 0.062435
+
+Group H (110):
+First Date: 1.599000
+Last Date: 9.247195
+Txs: 0.216473
+No. Contracts: 0.000000
+No. Chains: 0.073113
+Contracts List: 0.000000
+Chains List: 0.130453
+Overall: 0.130167
+First Date Spread Variance: 0.082466
+Last Date Spread Variance: 0.131065
+First Date Clustering Score: 0.072089
+Last Date Clustering Score: 0.148184
+
+Group LQ (22):
+First Date: 823.398948
+Last Date: 11.371619
+Txs: 0.225998
+No. Contracts: 0.000000
+No. Chains: 0.081619
+Contracts List: 0.000000
+Chains List: 0.102992
+Overall: 0.130257
+First Date Spread Variance: 0.836891
+Last Date Spread Variance: 0.064999
+First Date Clustering Score: 0.848964
+Last Date Clustering Score: 0.058993
+
+Group FR (74):
+First Date: 8.425523
+Last Date: 17.149843
+Txs: 0.289360
+No. Contracts: 0.000000
+No. Chains: 0.081559
+Contracts List: 0.000000
+Chains List: 0.071587
+Overall: 0.130277
+First Date Spread Variance: 0.155263
+Last Date Spread Variance: 0.146396
+First Date Clustering Score: 0.144791
+Last Date Clustering Score: 0.132123
+
+Group KV (20):
+First Date: 14.991375
+Last Date: 374.135500
+Txs: 0.284768
+No. Contracts: 0.000000
+No. Chains: 0.076265
+Contracts List: 0.000000
+Chains List: 0.074590
+Overall: 0.130369
+First Date Spread Variance: 0.107668
+Last Date Spread Variance: 0.355479
+First Date Clustering Score: 0.096128
+Last Date Clustering Score: 0.448458
+
+Group FY (1780):
+First Date: 0.190475
+Last Date: 0.235461
+Txs: 0.303349
+No. Contracts: 0.000000
+No. Chains: 0.064118
+Contracts List: 0.000000
+Chains List: 0.071097
+Overall: 0.130527
+First Date Spread Variance: 0.114494
+Last Date Spread Variance: 0.084130
+First Date Clustering Score: 0.102427
+Last Date Clustering Score: 0.093430
+
+Group AM (90):
+First Date: 89.500966
+Last Date: 17.511892
+Txs: 0.247969
+No. Contracts: 0.000000
+No. Chains: 0.068579
+Contracts List: 0.000000
+Chains List: 0.108467
+Overall: 0.130579
+First Date Spread Variance: 0.558069
+Last Date Spread Variance: 0.163144
+First Date Clustering Score: 0.534476
+Last Date Clustering Score: 0.199804
+
+Group IX (49):
+First Date: 7.459001
+Last Date: 7.120452
+Txs: 0.273556
+No. Contracts: 0.000000
+No. Chains: 0.079146
+Contracts List: 0.000000
+Chains List: 0.085938
+Overall: 0.130734
+First Date Spread Variance: 0.118875
+Last Date Spread Variance: 0.076760
+First Date Clustering Score: 0.113257
+Last Date Clustering Score: 0.093151
+
+Group LD (70):
+First Date: 5.161703
+Last Date: 43.776120
+Txs: 0.249433
+No. Contracts: 0.000000
+No. Chains: 0.102381
+Contracts List: 0.000000
+Chains List: 0.091832
+Overall: 0.130795
+First Date Spread Variance: 0.118195
+Last Date Spread Variance: 0.227484
+First Date Clustering Score: 0.107161
+Last Date Clustering Score: 0.248471
+
+Group AQ (73):
+First Date: 74.869597
+Last Date: 7.940347
+Txs: 0.242417
+No. Contracts: 0.000000
+No. Chains: 0.081932
+Contracts List: 0.000000
+Chains List: 0.107486
+Overall: 0.131131
+First Date Spread Variance: 0.459692
+Last Date Spread Variance: 0.098938
+First Date Clustering Score: 0.364931
+Last Date Clustering Score: 0.109724
+
+Group EK (49):
+First Date: 68.345536
+Last Date: 23.148739
+Txs: 0.212658
+No. Contracts: 0.000000
+No. Chains: 0.097446
+Contracts List: 0.000000
+Chains List: 0.121987
+Overall: 0.131236
+First Date Spread Variance: 0.359837
+Last Date Spread Variance: 0.138403
+First Date Clustering Score: 0.254785
+Last Date Clustering Score: 0.154605
+
+Group Y (62):
+First Date: 14.958226
+Last Date: 7.540453
+Txs: 0.244437
+No. Contracts: 0.000000
+No. Chains: 0.073533
+Contracts List: 0.000000
+Chains List: 0.113718
+Overall: 0.132004
+First Date Spread Variance: 0.189360
+Last Date Spread Variance: 0.088854
+First Date Clustering Score: 0.161684
+Last Date Clustering Score: 0.093050
+
+Group JT (43):
+First Date: 1.625064
+Last Date: 17.241249
+Txs: 0.306489
+No. Contracts: 0.000000
+No. Chains: 0.061726
+Contracts List: 0.000000
+Chains List: 0.074239
+Overall: 0.132275
+First Date Spread Variance: 0.051978
+Last Date Spread Variance: 0.111893
+First Date Clustering Score: 0.039372
+Last Date Clustering Score: 0.127864
+
+Group LU (5759):
+First Date: 0.139756
+Last Date: 0.926169
+Txs: 0.254336
+No. Contracts: 0.000000
+No. Chains: 0.098127
+Contracts List: 0.000000
+Chains List: 0.094687
+Overall: 0.132304
+First Date Spread Variance: 0.176405
+Last Date Spread Variance: 0.300125
+First Date Clustering Score: 0.147763
+Last Date Clustering Score: 0.317148
+
+Group KE (36):
+First Date: 89.344372
+Last Date: 232.304248
+Txs: 0.253119
+No. Contracts: 0.000000
+No. Chains: 0.092715
+Contracts List: 0.000000
+Chains List: 0.095233
+Overall: 0.132584
+First Date Spread Variance: 0.352645
+Last Date Spread Variance: 0.375806
+First Date Clustering Score: 0.277592
+Last Date Clustering Score: 0.452094
+
+Group S (24):
+First Date: 12.440900
+Last Date: 33.336155
+Txs: 0.212121
+No. Contracts: 0.000000
+No. Chains: 0.102436
+Contracts List: 0.000000
+Chains List: 0.124556
+Overall: 0.132712
+First Date Spread Variance: 0.107444
+Last Date Spread Variance: 0.116238
+First Date Clustering Score: 0.074555
+Last Date Clustering Score: 0.126880
+
+Group I (64):
+First Date: 6.200134
+Last Date: 13.312241
+Txs: 0.223690
+No. Contracts: 0.000000
+No. Chains: 0.084365
+Contracts List: 0.000000
+Chains List: 0.127099
+Overall: 0.133319
+First Date Spread Variance: 0.123863
+Last Date Spread Variance: 0.119950
+First Date Clustering Score: 0.104786
+Last Date Clustering Score: 0.120331
+
+Group KI (28):
+First Date: 148.606961
+Last Date: 39.438411
+Txs: 0.276316
+No. Contracts: 0.000000
+No. Chains: 0.087719
+Contracts List: 0.000000
+Chains List: 0.084751
+Overall: 0.134036
+First Date Spread Variance: 0.401099
+Last Date Spread Variance: 0.136560
+First Date Clustering Score: 0.318677
+Last Date Clustering Score: 0.153150
+
+Group LC (475):
+First Date: 0.587360
+Last Date: 6.873704
+Txs: 0.245239
+No. Contracts: 0.000000
+No. Chains: 0.101318
+Contracts List: 0.000000
+Chains List: 0.105420
+Overall: 0.134525
+First Date Spread Variance: 0.103861
+Last Date Spread Variance: 0.234815
+First Date Clustering Score: 0.080950
+Last Date Clustering Score: 0.248719
+
+Group LR (104):
+First Date: 97.881042
+Last Date: 90.892928
+Txs: 0.266091
+No. Contracts: 0.000000
+No. Chains: 0.088164
+Contracts List: 0.000000
+Chains List: 0.094213
+Overall: 0.134633
+First Date Spread Variance: 0.627362
+Last Date Spread Variance: 0.399545
+First Date Clustering Score: 0.621666
+Last Date Clustering Score: 0.524680
+
+Group IQ (34):
+First Date: 12.281116
+Last Date: 141.048239
+Txs: 0.277399
+No. Contracts: 0.000000
+No. Chains: 0.083357
+Contracts List: 0.000000
+Chains List: 0.090944
+Overall: 0.135219
+First Date Spread Variance: 0.127061
+Last Date Spread Variance: 0.284582
+First Date Clustering Score: 0.120148
+Last Date Clustering Score: 0.325518
+
+Group EB (28):
+First Date: 38.735605
+Last Date: 43.381195
+Txs: 0.231315
+No. Contracts: 0.000000
+No. Chains: 0.098310
+Contracts List: 0.000000
+Chains List: 0.118137
+Overall: 0.135242
+First Date Spread Variance: 0.204780
+Last Date Spread Variance: 0.143223
+First Date Clustering Score: 0.180724
+Last Date Clustering Score: 0.160738
+
+Group EH (38):
+First Date: 87.019919
+Last Date: 13.630722
+Txs: 0.231309
+No. Contracts: 0.000000
+No. Chains: 0.087059
+Contracts List: 0.000000
+Chains List: 0.124081
+Overall: 0.135552
+First Date Spread Variance: 0.357564
+Last Date Spread Variance: 0.093527
+First Date Clustering Score: 0.286994
+Last Date Clustering Score: 0.109518
+
+Group FJ (20):
+First Date: 14.828000
+Last Date: 28.225000
+Txs: 0.299225
+No. Contracts: 0.000000
+No. Chains: 0.087654
+Contracts List: 0.000000
+Chains List: 0.075075
+Overall: 0.135892
+First Date Spread Variance: 0.107080
+Last Date Spread Variance: 0.097637
+First Date Clustering Score: 0.080528
+Last Date Clustering Score: 0.121129
+
+Group M (105):
+First Date: 2.631797
+Last Date: 9.287588
+Txs: 0.202634
+No. Contracts: 0.000000
+No. Chains: 0.071968
+Contracts List: 0.000000
+Chains List: 0.156131
+Overall: 0.135975
+First Date Spread Variance: 0.103365
+Last Date Spread Variance: 0.128331
+First Date Clustering Score: 0.093935
+Last Date Clustering Score: 0.144715
+
+Group LJ (5102):
+First Date: 0.038848
+Last Date: 0.062223
+Txs: 0.255287
+No. Contracts: 0.000000
+No. Chains: 0.108179
+Contracts List: 0.000000
+Chains List: 0.098509
+Overall: 0.136136
+First Date Spread Variance: 0.087540
+Last Date Spread Variance: 0.073220
+First Date Clustering Score: 0.072213
+Last Date Clustering Score: 0.079571
+
+Group DF (20):
+First Date: 14.352375
+Last Date: 16.182375
+Txs: 0.288235
+No. Contracts: 0.000000
+No. Chains: 0.076923
+Contracts List: 0.000000
+Chains List: 0.090029
+Overall: 0.136306
+First Date Spread Variance: 0.105349
+Last Date Spread Variance: 0.073930
+First Date Clustering Score: 0.095449
+Last Date Clustering Score: 0.092678
+
+Group O (24):
+First Date: 11.555483
+Last Date: 52.828704
+Txs: 0.256266
+No. Contracts: 0.000000
+No. Chains: 0.087945
+Contracts List: 0.000000
+Chains List: 0.108182
+Overall: 0.136388
+First Date Spread Variance: 0.103551
+Last Date Spread Variance: 0.146327
+First Date Clustering Score: 0.076668
+Last Date Clustering Score: 0.179346
+
+Group AI (52):
+First Date: 17.696027
+Last Date: 11.557436
+Txs: 0.311355
+No. Contracts: 0.000000
+No. Chains: 0.023673
+Contracts List: 0.000000
+Chains List: 0.100865
+Overall: 0.136541
+First Date Spread Variance: 0.188622
+Last Date Spread Variance: 0.100743
+First Date Clustering Score: 0.192250
+Last Date Clustering Score: 0.111978
+
+Group GC (544):
+First Date: 0.288804
+Last Date: 6.763590
+Txs: 0.306864
+No. Contracts: 0.000000
+No. Chains: 0.082011
+Contracts List: 0.000000
+Chains List: 0.074467
+Overall: 0.136564
+First Date Spread Variance: 0.077939
+Last Date Spread Variance: 0.249271
+First Date Clustering Score: 0.067837
+Last Date Clustering Score: 0.271901
+
+Group GK (60):
+First Date: 0.694833
+Last Date: 4.689606
+Txs: 0.337367
+No. Contracts: 0.000000
+No. Chains: 0.042708
+Contracts List: 0.000000
+Chains List: 0.072702
+Overall: 0.136844
+First Date Spread Variance: 0.040148
+Last Date Spread Variance: 0.068933
+First Date Clustering Score: 0.028310
+Last Date Clustering Score: 0.056089
+
+Group EG (56):
+First Date: 37.663539
+Last Date: 14.282839
+Txs: 0.295641
+No. Contracts: 0.000000
+No. Chains: 0.081677
+Contracts List: 0.000000
+Chains List: 0.083808
+Overall: 0.137182
+First Date Spread Variance: 0.285566
+Last Date Spread Variance: 0.116221
+First Date Clustering Score: 0.181615
+Last Date Clustering Score: 0.127025
+
+Group IB (55):
+First Date: 3.781662
+Last Date: 55.381037
+Txs: 0.317221
+No. Contracts: 0.000000
+No. Chains: 0.075039
+Contracts List: 0.000000
+Chains List: 0.072314
+Overall: 0.137551
+First Date Spread Variance: 0.089676
+Last Date Spread Variance: 0.226802
+First Date Clustering Score: 0.081189
+Last Date Clustering Score: 0.247128
+
+Group IH (27):
+First Date: 174.719707
+Last Date: 125.875121
+Txs: 0.315620
+No. Contracts: 0.000000
+No. Chains: 0.078690
+Contracts List: 0.000000
+Chains List: 0.067900
+Overall: 0.137662
+First Date Spread Variance: 0.427076
+Last Date Spread Variance: 0.239572
+First Date Clustering Score: 0.383229
+Last Date Clustering Score: 0.274817
+
+Group JX (61):
+First Date: 16.313542
+Last Date: 22.752741
+Txs: 0.226179
+No. Contracts: 0.000000
+No. Chains: 0.117224
+Contracts List: 0.000000
+Chains List: 0.119263
+Overall: 0.137780
+First Date Spread Variance: 0.196152
+Last Date Spread Variance: 0.153097
+First Date Clustering Score: 0.141142
+Last Date Clustering Score: 0.181027
+
+Group FP (66):
+First Date: 2.708559
+Last Date: 8.666903
+Txs: 0.272727
+No. Contracts: 0.000000
+No. Chains: 0.099538
+Contracts List: 0.000000
+Chains List: 0.094674
+Overall: 0.138058
+First Date Spread Variance: 0.083137
+Last Date Spread Variance: 0.098285
+First Date Clustering Score: 0.074767
+Last Date Clustering Score: 0.115363
+
+Group AN (20):
+First Date: 11.176375
+Last Date: 38.338000
+Txs: 0.245528
+No. Contracts: 0.000000
+No. Chains: 0.047761
+Contracts List: 0.000000
+Chains List: 0.141730
+Overall: 0.138185
+First Date Spread Variance: 0.092965
+Last Date Spread Variance: 0.113793
+First Date Clustering Score: 0.077550
+Last Date Clustering Score: 0.137354
+
+Group IN (32):
+First Date: 32.070190
+Last Date: 4.462616
+Txs: 0.304784
+No. Contracts: 0.000000
+No. Chains: 0.093112
+Contracts List: 0.000000
+Chains List: 0.075680
+Overall: 0.138930
+First Date Spread Variance: 0.199195
+Last Date Spread Variance: 0.049108
+First Date Clustering Score: 0.166131
+Last Date Clustering Score: 0.055470
+
+Group AC (57):
+First Date: 3.971338
+Last Date: 14.784220
+Txs: 0.227025
+No. Contracts: 0.000000
+No. Chains: 0.080919
+Contracts List: 0.000000
+Chains List: 0.141943
+Overall: 0.139434
+First Date Spread Variance: 0.093553
+Last Date Spread Variance: 0.119295
+First Date Clustering Score: 0.077867
+Last Date Clustering Score: 0.132730
+
+Group LE (123):
+First Date: 0.357556
+Last Date: 26.248314
+Txs: 0.219543
+No. Contracts: 0.000000
+No. Chains: 0.121857
+Contracts List: 0.000000
+Chains List: 0.126561
+Overall: 0.139532
+First Date Spread Variance: 0.041236
+Last Date Spread Variance: 0.233500
+First Date Clustering Score: 0.026286
+Last Date Clustering Score: 0.183528
+
+Group EV (20):
+First Date: 3.695500
+Last Date: 17.949500
+Txs: 0.257143
+No. Contracts: 0.000000
+No. Chains: 0.107692
+Contracts List: 0.000000
+Chains List: 0.107266
+Overall: 0.140126
+First Date Spread Variance: 0.053457
+Last Date Spread Variance: 0.077862
+First Date Clustering Score: 0.043501
+Last Date Clustering Score: 0.091156
+
+Group AG (36):
+First Date: 16.166067
+Last Date: 18.414159
+Txs: 0.218657
+No. Contracts: 0.000000
+No. Chains: 0.132353
+Contracts List: 0.000000
+Chains List: 0.123396
+Overall: 0.140259
+First Date Spread Variance: 0.150005
+Last Date Spread Variance: 0.105806
+First Date Clustering Score: 0.135060
+Last Date Clustering Score: 0.123685
+
+Group IW (26):
+First Date: 29.857817
+Last Date: 22.897872
+Txs: 0.310689
+No. Contracts: 0.000000
+No. Chains: 0.066890
+Contracts List: 0.000000
+Chains List: 0.089019
+Overall: 0.140627
+First Date Spread Variance: 0.173248
+Last Date Spread Variance: 0.100269
+First Date Clustering Score: 0.092752
+Last Date Clustering Score: 0.116378
+
+Group FM (28):
+First Date: 21.741618
+Last Date: 187.274235
+Txs: 0.257036
+No. Contracts: 0.000000
+No. Chains: 0.095315
+Contracts List: 0.000000
+Chains List: 0.113823
+Overall: 0.140905
+First Date Spread Variance: 0.153418
+Last Date Spread Variance: 0.297579
+First Date Clustering Score: 0.145781
+Last Date Clustering Score: 0.346686
+
+Group HL (21):
+First Date: 2.042112
+Last Date: 15.102689
+Txs: 0.320062
+No. Contracts: 0.000000
+No. Chains: 0.067708
+Contracts List: 0.000000
+Chains List: 0.083197
+Overall: 0.141021
+First Date Spread Variance: 0.040719
+Last Date Spread Variance: 0.073185
+First Date Clustering Score: 0.031442
+Last Date Clustering Score: 0.076268
+
+Group AD (52):
+First Date: 5.543205
+Last Date: 18.650795
+Txs: 0.252354
+No. Contracts: 0.000000
+No. Chains: 0.087749
+Contracts List: 0.000000
+Chains List: 0.123450
+Overall: 0.141038
+First Date Spread Variance: 0.105569
+Last Date Spread Variance: 0.127978
+First Date Clustering Score: 0.086796
+Last Date Clustering Score: 0.150544
+
+Group E (31):
+First Date: 1.860965
+Last Date: 30.045181
+Txs: 0.258313
+No. Contracts: 0.000000
+No. Chains: 0.100966
+Contracts List: 0.000000
+Chains List: 0.112250
+Overall: 0.141092
+First Date Spread Variance: 0.047228
+Last Date Spread Variance: 0.125416
+First Date Clustering Score: 0.041494
+Last Date Clustering Score: 0.156963
+
+Group FE (35):
+First Date: 3.636245
+Last Date: 10.400560
+Txs: 0.285714
+No. Contracts: 0.000000
+No. Chains: 0.069349
+Contracts List: 0.000000
+Chains List: 0.108348
+Overall: 0.141129
+First Date Spread Variance: 0.070148
+Last Date Spread Variance: 0.078405
+First Date Clustering Score: 0.052304
+Last Date Clustering Score: 0.084292
+
+Group IG (76):
+First Date: 63.802529
+Last Date: 85.640053
+Txs: 0.313131
+No. Contracts: 0.000000
+No. Chains: 0.071579
+Contracts List: 0.000000
+Chains List: 0.089330
+Overall: 0.142915
+First Date Spread Variance: 0.432990
+Last Date Spread Variance: 0.331535
+First Date Clustering Score: 0.351815
+Last Date Clustering Score: 0.403354
+
+Group FL (36):
+First Date: 1.711591
+Last Date: 14.049383
+Txs: 0.361635
+No. Contracts: 0.000000
+No. Chains: 0.048964
+Contracts List: 0.000000
+Chains List: 0.067479
+Overall: 0.143260
+First Date Spread Variance: 0.048809
+Last Date Spread Variance: 0.092420
+First Date Clustering Score: 0.038440
+Last Date Clustering Score: 0.094837
+
+Group LY (394):
+First Date: 13.249344
+Last Date: 5.641324
+Txs: 0.245612
+No. Contracts: 0.000000
+No. Chains: 0.122533
+Contracts List: 0.000000
+Chains List: 0.118202
+Overall: 0.144089
+First Date Spread Variance: 0.449260
+Last Date Spread Variance: 0.193742
+First Date Clustering Score: 0.382051
+Last Date Clustering Score: 0.213630
+
+Group KP (21):
+First Date: 16.775510
+Last Date: 17.801965
+Txs: 0.260163
+No. Contracts: 0.000000
+No. Chains: 0.124256
+Contracts List: 0.000000
+Chains List: 0.106858
+Overall: 0.144334
+First Date Spread Variance: 0.116708
+Last Date Spread Variance: 0.079456
+First Date Clustering Score: 0.104806
+Last Date Clustering Score: 0.094614
+
+Group CI (25):
+First Date: 15.358464
+Last Date: 17.353600
+Txs: 0.320497
+No. Contracts: 0.000000
+No. Chains: 0.080000
+Contracts List: 0.000000
+Chains List: 0.085032
+Overall: 0.144490
+First Date Spread Variance: 0.121842
+Last Date Spread Variance: 0.085595
+First Date Clustering Score: 0.108938
+Last Date Clustering Score: 0.099697
+
+Group DZ (113):
+First Date: 3.937680
+Last Date: 9.585018
+Txs: 0.281674
+No. Contracts: 0.000000
+No. Chains: 0.077470
+Contracts List: 0.000000
+Chains List: 0.115847
+Overall: 0.144547
+First Date Spread Variance: 0.131163
+Last Date Spread Variance: 0.135245
+First Date Clustering Score: 0.104475
+Last Date Clustering Score: 0.161653
+
+Group FN (80):
+First Date: 2.541180
+Last Date: 36.432937
+Txs: 0.302998
+No. Contracts: 0.000000
+No. Chains: 0.092255
+Contracts List: 0.000000
+Chains List: 0.093193
+Overall: 0.145013
+First Date Spread Variance: 0.088657
+Last Date Spread Variance: 0.221859
+First Date Clustering Score: 0.055254
+Last Date Clustering Score: 0.259300
+
+Group J (49):
+First Date: 7.653478
+Last Date: 23.242985
+Txs: 0.267477
+No. Contracts: 0.000000
+No. Chains: 0.074830
+Contracts List: 0.000000
+Chains List: 0.129355
+Overall: 0.145221
+First Date Spread Variance: 0.120415
+Last Date Spread Variance: 0.138685
+First Date Clustering Score: 0.083303
+Last Date Clustering Score: 0.150222
+
+Group KQ (41):
+First Date: 4.240333
+Last Date: 100.756547
+Txs: 0.334374
+No. Contracts: 0.000000
+No. Chains: 0.061176
+Contracts List: 0.000000
+Chains List: 0.087744
+Overall: 0.146027
+First Date Spread Variance: 0.081987
+Last Date Spread Variance: 0.264127
+First Date Clustering Score: 0.073259
+Last Date Clustering Score: 0.289839
+
+Group HQ (71):
+First Date: 17.725820
+Last Date: 9.815094
+Txs: 0.305467
+No. Contracts: 0.000000
+No. Chains: 0.080568
+Contracts List: 0.000000
+Chains List: 0.100336
+Overall: 0.146193
+First Date Spread Variance: 0.220590
+Last Date Spread Variance: 0.108483
+First Date Clustering Score: 0.178617
+Last Date Clustering Score: 0.121270
+
+Group LB (50):
+First Date: 13.964000
+Last Date: 34.041600
+Txs: 0.331597
+No. Contracts: 0.000000
+No. Chains: 0.062819
+Contracts List: 0.000000
+Chains List: 0.090027
+Overall: 0.146276
+First Date Spread Variance: 0.164302
+Last Date Spread Variance: 0.169541
+First Date Clustering Score: 0.154582
+Last Date Clustering Score: 0.158650
+
+Group KG (74):
+First Date: 4.338529
+Last Date: 71.275939
+Txs: 0.302508
+No. Contracts: 0.000000
+No. Chains: 0.095136
+Contracts List: 0.000000
+Chains List: 0.095989
+Overall: 0.146698
+First Date Spread Variance: 0.111414
+Last Date Spread Variance: 0.298450
+First Date Clustering Score: 0.090730
+Last Date Clustering Score: 0.345898
+
+Group JG (23):
+First Date: 56.443495
+Last Date: 25.263911
+Txs: 0.354981
+No. Contracts: 0.000000
+No. Chains: 0.075340
+Contracts List: 0.000000
+Chains List: 0.066495
+Overall: 0.146753
+First Date Spread Variance: 0.224039
+Last Date Spread Variance: 0.099060
+First Date Clustering Score: 0.176162
+Last Date Clustering Score: 0.107928
+
+Group IF (57):
+First Date: 43.867565
+Last Date: 37.572500
+Txs: 0.328207
+No. Contracts: 0.000000
+No. Chains: 0.084511
+Contracts List: 0.000000
+Chains List: 0.082023
+Overall: 0.146792
+First Date Spread Variance: 0.310929
+Last Date Spread Variance: 0.190176
+First Date Clustering Score: 0.270129
+Last Date Clustering Score: 0.183510
+
+Group L (66):
+First Date: 5.023030
+Last Date: 16.833737
+Txs: 0.254882
+No. Contracts: 0.000000
+No. Chains: 0.082949
+Contracts List: 0.000000
+Chains List: 0.139000
+Overall: 0.146919
+First Date Spread Variance: 0.113216
+Last Date Spread Variance: 0.136977
+First Date Clustering Score: 0.089182
+Last Date Clustering Score: 0.152291
+
+Group JU (27):
+First Date: 70.011888
+Last Date: 20.807499
+Txs: 0.343981
+No. Contracts: 0.000000
+No. Chains: 0.072239
+Contracts List: 0.000000
+Chains List: 0.077147
+Overall: 0.147161
+First Date Spread Variance: 0.270346
+Last Date Spread Variance: 0.097404
+First Date Clustering Score: 0.204162
+Last Date Clustering Score: 0.094733
+
+Group DJ (35):
+First Date: 3.634752
+Last Date: 137.582507
+Txs: 0.306529
+No. Contracts: 0.000000
+No. Chains: 0.089063
+Contracts List: 0.000000
+Chains List: 0.097921
+Overall: 0.147641
+First Date Spread Variance: 0.070133
+Last Date Spread Variance: 0.285167
+First Date Clustering Score: 0.056278
+Last Date Clustering Score: 0.305748
+
+Group ER (21):
+First Date: 6.895584
+Last Date: 146.628658
+Txs: 0.363333
+No. Contracts: 0.000000
+No. Chains: 0.054813
+Contracts List: 0.000000
+Chains List: 0.078835
+Overall: 0.149946
+First Date Spread Variance: 0.074825
+Last Date Spread Variance: 0.228036
+First Date Clustering Score: 0.057628
+Last Date Clustering Score: 0.286371
+
+Group ED (34):
+First Date: 4.172629
+Last Date: 43.861999
+Txs: 0.306776
+No. Contracts: 0.000000
+No. Chains: 0.100682
+Contracts List: 0.000000
+Chains List: 0.100508
+Overall: 0.150767
+First Date Spread Variance: 0.074062
+Last Date Spread Variance: 0.158697
+First Date Clustering Score: 0.056535
+Last Date Clustering Score: 0.194223
+
+Group JN (97):
+First Date: 4.721969
+Last Date: 10.202145
+Txs: 0.304789
+No. Contracts: 0.000000
+No. Chains: 0.080955
+Contracts List: 0.000000
+Chains List: 0.112925
+Overall: 0.150931
+First Date Spread Variance: 0.133076
+Last Date Spread Variance: 0.129275
+First Date Clustering Score: 0.099525
+Last Date Clustering Score: 0.157009
+
+Group IC (52):
+First Date: 21.794720
+Last Date: 94.427970
+Txs: 0.302549
+No. Contracts: 0.000000
+No. Chains: 0.080886
+Contracts List: 0.000000
+Chains List: 0.123708
+Overall: 0.154940
+First Date Spread Variance: 0.209329
+Last Date Spread Variance: 0.287963
+First Date Clustering Score: 0.195214
+Last Date Clustering Score: 0.333250
+
+Group AP (70):
+First Date: 1.397752
+Last Date: 4.913866
+Txs: 0.303587
+No. Contracts: 0.000000
+No. Chains: 0.113649
+Contracts List: 0.000000
+Chains List: 0.108996
+Overall: 0.155652
+First Date Spread Variance: 0.061506
+Last Date Spread Variance: 0.076216
+First Date Clustering Score: 0.051889
+Last Date Clustering Score: 0.092217
+
+Group HP (65):
+First Date: 17.704157
+Last Date: 20.377620
+Txs: 0.396785
+No. Contracts: 0.000000
+No. Chains: 0.050922
+Contracts List: 0.000000
+Chains List: 0.074571
+Overall: 0.156963
+First Date Spread Variance: 0.210934
+Last Date Spread Variance: 0.149561
+First Date Clustering Score: 0.194422
+Last Date Clustering Score: 0.138499
+
+Group EJ (29):
+First Date: 18.593628
+Last Date: 61.065398
+Txs: 0.311710
+No. Contracts: 0.000000
+No. Chains: 0.097825
+Contracts List: 0.000000
+Chains List: 0.117466
+Overall: 0.158492
+First Date Spread Variance: 0.144389
+Last Date Spread Variance: 0.172934
+First Date Clustering Score: 0.110823
+Last Date Clustering Score: 0.207871
+
+Group EA (98):
+First Date: 13.965295
+Last Date: 17.553363
+Txs: 0.289060
+No. Contracts: 0.000000
+No. Chains: 0.103781
+Contracts List: 0.000000
+Chains List: 0.135506
+Overall: 0.159940
+First Date Spread Variance: 0.230033
+Last Date Spread Variance: 0.170442
+First Date Clustering Score: 0.169335
+Last Date Clustering Score: 0.193803
+
+Group FK (43):
+First Date: 3.537450
+Last Date: 23.176802
+Txs: 0.400810
+No. Contracts: 0.000000
+No. Chains: 0.068405
+Contracts List: 0.000000
+Chains List: 0.073740
+Overall: 0.161289
+First Date Spread Variance: 0.076689
+Last Date Spread Variance: 0.129731
+First Date Clustering Score: 0.049917
+Last Date Clustering Score: 0.148261
+
+Group HF (22):
+First Date: 2.975958
+Last Date: 2.071844
+Txs: 0.319786
+No. Contracts: 0.000000
+No. Chains: 0.105621
+Contracts List: 0.000000
+Chains List: 0.117246
+Overall: 0.162042
+First Date Spread Variance: 0.050313
+Last Date Spread Variance: 0.027744
+First Date Clustering Score: 0.041461
+Last Date Clustering Score: 0.033361
+
+Group KM (43):
+First Date: 66.134655
+Last Date: 10.413473
+Txs: 0.357444
+No. Contracts: 0.000000
+No. Chains: 0.085767
+Contracts List: 0.000000
+Chains List: 0.099353
+Overall: 0.162568
+First Date Spread Variance: 0.331590
+Last Date Spread Variance: 0.086959
+First Date Clustering Score: 0.242211
+Last Date Clustering Score: 0.096389
+
+Group DM (56):
+First Date: 4.230025
+Last Date: 3.516758
+Txs: 0.399155
+No. Contracts: 0.000000
+No. Chains: 0.078623
+Contracts List: 0.000000
+Chains List: 0.073467
+Overall: 0.162711
+First Date Spread Variance: 0.095701
+Last Date Spread Variance: 0.057670
+First Date Clustering Score: 0.088867
+Last Date Clustering Score: 0.066644
+
+Group FB (33):
+First Date: 7.792359
+Last Date: 113.509864
+Txs: 0.373900
+No. Contracts: 0.000000
+No. Chains: 0.101264
+Contracts List: 0.000000
+Chains List: 0.095807
+Overall: 0.169107
+First Date Spread Variance: 0.099711
+Last Date Spread Variance: 0.251512
+First Date Clustering Score: 0.068359
+Last Date Clustering Score: 0.281984
+
+Group GM (3268):
+First Date: 0.091587
+Last Date: 0.119691
+Txs: 0.382682
+No. Contracts: 0.000000
+No. Chains: 0.085807
+Contracts List: 0.000000
+Chains List: 0.108854
+Overall: 0.173212
+First Date Spread Variance: 0.107575
+Last Date Spread Variance: 0.081275
+First Date Clustering Score: 0.085592
+Last Date Clustering Score: 0.089190
+
+Group AO (678):
+First Date: 1.045282
+Last Date: 0.993899
+Txs: 0.360752
+No. Contracts: 0.000000
+No. Chains: 0.085746
+Contracts List: 0.000000
+Chains List: 0.126364
+Overall: 0.173641
+First Date Spread Variance: 0.165533
+Last Date Spread Variance: 0.106677
+First Date Clustering Score: 0.154426
+Last Date Clustering Score: 0.114807
+
+Group T (24):
+First Date: 4.218099
+Last Date: 30.512731
+Txs: 0.399171
+No. Contracts: 0.000000
+No. Chains: 0.096328
+Contracts List: 0.000000
+Chains List: 0.093677
+Overall: 0.174384
+First Date Spread Variance: 0.062563
+Last Date Spread Variance: 0.111207
+First Date Clustering Score: 0.056776
+Last Date Clustering Score: 0.118234
+
+Group JA (35):
+First Date: 1.388315
+Last Date: 18.459569
+Txs: 0.513024
+No. Contracts: 0.000000
+No. Chains: 0.008521
+Contracts List: 0.000000
+Chains List: 0.063604
+Overall: 0.178137
+First Date Spread Variance: 0.043344
+Last Date Spread Variance: 0.104455
+First Date Clustering Score: 0.038713
+Last Date Clustering Score: 0.137393
+
+Group HJ (73):
+First Date: 0.129151
+Last Date: 811.164561
+Txs: 0.401167
+No. Contracts: 0.000000
+No. Chains: 0.092439
+Contracts List: 0.000000
+Chains List: 0.102392
+Overall: 0.180405
+First Date Spread Variance: 0.019093
+Last Date Spread Variance: 1.000000
+First Date Clustering Score: 0.013063
+Last Date Clustering Score: 1.000000
+
+Group EL (555):
+First Date: 0.848023
+Last Date: 1.150487
+Txs: 0.220656
+No. Contracts: 0.000000
+No. Chains: 0.215708
+Contracts List: 0.000000
+Chains List: 0.185468
+Overall: 0.182114
+First Date Spread Variance: 0.134897
+Last Date Spread Variance: 0.103842
+First Date Clustering Score: 0.124022
+Last Date Clustering Score: 0.106183
+
+Group Z (24):
+First Date: 29.562428
+Last Date: 41.999711
+Txs: 0.346774
+No. Contracts: 0.000000
+No. Chains: 0.140420
+Contracts List: 0.000000
+Chains List: 0.129836
+Overall: 0.182406
+First Date Spread Variance: 0.165626
+Last Date Spread Variance: 0.130471
+First Date Clustering Score: 0.090154
+Last Date Clustering Score: 0.143195
+
+Group KF (23):
+First Date: 85.299252
+Last Date: 352.943043
+Txs: 0.344664
+No. Contracts: 0.000000
+No. Chains: 0.146140
+Contracts List: 0.000000
+Chains List: 0.126207
+Overall: 0.183077
+First Date Spread Variance: 0.275416
+Last Date Spread Variance: 0.370254
+First Date Clustering Score: 0.238056
+Last Date Clustering Score: 0.440637
+
+Group HY (25):
+First Date: 51.572864
+Last Date: 22.803200
+Txs: 0.429091
+No. Contracts: 0.000000
+No. Chains: 0.082749
+Contracts List: 0.000000
+Chains List: 0.103532
+Overall: 0.184657
+First Date Spread Variance: 0.223271
+Last Date Spread Variance: 0.098119
+First Date Clustering Score: 0.193432
+Last Date Clustering Score: 0.077072
+
+Group IA (61):
+First Date: 68.440416
+Last Date: 10.455606
+Txs: 0.319591
+No. Contracts: 0.000000
+No. Chains: 0.157802
+Contracts List: 0.000000
+Chains List: 0.152874
+Overall: 0.187196
+First Date Spread Variance: 0.401767
+Last Date Spread Variance: 0.103782
+First Date Clustering Score: 0.342206
+Last Date Clustering Score: 0.126365
+
+Group HB (63):
+First Date: 2.325955
+Last Date: 2.776934
+Txs: 0.406281
+No. Contracts: 0.000000
+No. Chains: 0.117821
+Contracts List: 0.000000
+Chains List: 0.116140
+Overall: 0.189596
+First Date Spread Variance: 0.075270
+Last Date Spread Variance: 0.054355
+First Date Clustering Score: 0.067218
+Last Date Clustering Score: 0.065549
+
+Group GZ (21):
+First Date: 83.224058
+Last Date: 187.636756
+Txs: 0.528991
+No. Contracts: 0.000000
+No. Chains: 0.054726
+Contracts List: 0.000000
+Chains List: 0.062809
+Overall: 0.193201
+First Date Spread Variance: 0.259948
+Last Date Spread Variance: 0.257960
+First Date Clustering Score: 0.217479
+Last Date Clustering Score: 0.306172
+
+Group DX (35):
+First Date: 9.409586
+Last Date: 2.550997
+Txs: 0.277064
+No. Contracts: 0.000000
+No. Chains: 0.197012
+Contracts List: 0.000000
+Chains List: 0.183967
+Overall: 0.194414
+First Date Spread Variance: 0.112842
+Last Date Spread Variance: 0.038831
+First Date Clustering Score: 0.111066
+Last Date Clustering Score: 0.020098
+
+Group FG (74):
+First Date: 61.477901
+Last Date: 75.722921
+Txs: 0.532939
+No. Contracts: 0.000000
+No. Chains: 0.063898
+Contracts List: 0.000000
+Chains List: 0.066582
+Overall: 0.197148
+First Date Spread Variance: 0.419400
+Last Date Spread Variance: 0.307619
+First Date Clustering Score: 0.420163
+Last Date Clustering Score: 0.405743
+
+Group P (93):
+First Date: 3.560966
+Last Date: 10.467519
+Txs: 0.397938
+No. Contracts: 0.000000
+No. Chains: 0.143561
+Contracts List: 0.000000
+Chains List: 0.152165
+Overall: 0.206612
+First Date Spread Variance: 0.113156
+Last Date Spread Variance: 0.128218
+First Date Clustering Score: 0.087843
+Last Date Clustering Score: 0.141876
+
+Group HR (73):
+First Date: 10.343569
+Last Date: 9.996293
+Txs: 0.500888
+No. Contracts: 0.000000
+No. Chains: 0.113109
+Contracts List: 0.000000
+Chains List: 0.104387
+Overall: 0.211990
+First Date Spread Variance: 0.170863
+Last Date Spread Variance: 0.111011
+First Date Clustering Score: 0.152444
+Last Date Clustering Score: 0.106077
+
+Group DV (27):
+First Date: 1.984454
+Last Date: 23.682467
+Txs: 0.137755
+No. Contracts: 0.000000
+No. Chains: 0.255468
+Contracts List: 0.000000
+Chains List: 0.359876
+Overall: 0.234563
+First Date Spread Variance: 0.045515
+Last Date Spread Variance: 0.103915
+First Date Clustering Score: 0.039159
+Last Date Clustering Score: 0.117222
+
+Group JS (38):
+First Date: 104.310486
+Last Date: 12.849413
+Txs: 0.307368
+No. Contracts: 0.000000
+No. Chains: 0.302423
+Contracts List: 0.000000
+Chains List: 0.320274
+Overall: 0.279305
+First Date Spread Variance: 0.391479
+Last Date Spread Variance: 0.090807
+First Date Clustering Score: 0.278549
+Last Date Clustering Score: 0.108371
+
+Group DW (32):
+First Date: 30.620575
+Last Date: 12.349609
+Txs: 0.161664
+No. Contracts: 0.000000
+No. Chains: 0.420298
+Contracts List: 0.000000
+Chains List: 0.398973
+Overall: 0.290807
+First Date Spread Variance: 0.194641
+Last Date Spread Variance: 0.081693
+First Date Clustering Score: 0.199977
+Last Date Clustering Score: 0.088734
+
